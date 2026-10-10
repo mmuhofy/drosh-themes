@@ -1,0 +1,31 @@
+# Drosh theme — Mathias. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "mathias"
+name = "Mathias"
+author = "mathiasbynens"
+description = "A black theme with vivid pink, lime and orange terminal colors."
+version = 1
+
+[palette]
+background = "#000000"
+foreground = "#BBBBBB"
+cursor = "#BBBBBB"
+selection_background = "#555555"
+selection_foreground = "#F2F2F2"
+accent = "#C48DFF"
+black = "#000000"
+red = "#E52222"
+green = "#A6E32D"
+yellow = "#FC951E"
+blue = "#C48DFF"
+magenta = "#FA2573"
+cyan = "#67D9F0"
+white = "#F2F2F2"
+bright_black = "#555555"
+bright_red = "#FF5555"
+bright_green = "#55FF55"
+bright_yellow = "#FFFF55"
+bright_blue = "#5555FF"
+bright_magenta = "#FF55FF"
+bright_cyan = "#55FFFF"
+bright_white = "#FFFFFF"

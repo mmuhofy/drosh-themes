@@ -1,0 +1,31 @@
+# Drosh theme — Grass. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "grass"
+name = "Grass"
+author = "iTerm2-Color-Schemes"
+description = "A vivid green-background theme with retro terminal colors."
+version = 1
+
+[palette]
+background = "#13773D"
+foreground = "#FFF0A5"
+cursor = "#8C2800"
+selection_background = "#B64926"
+selection_foreground = "#FFFFFF"
+accent = "#0000A3"
+black = "#000000"
+red = "#BB0000"
+green = "#00BB00"
+yellow = "#E7B000"
+blue = "#0000A3"
+magenta = "#950062"
+cyan = "#00BBBB"
+white = "#BBBBBB"
+bright_black = "#555555"
+bright_red = "#BB0000"
+bright_green = "#00BB00"
+bright_yellow = "#E7B000"
+bright_blue = "#0000BB"
+bright_magenta = "#FF55FF"
+bright_cyan = "#55FFFF"
+bright_white = "#FFFFFF"

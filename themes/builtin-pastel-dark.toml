@@ -1,0 +1,31 @@
+# Drosh theme — Builtin Pastel Dark. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "builtin-pastel-dark"
+name = "Builtin Pastel Dark"
+author = "iTerm2-Color-Schemes"
+description = "A black background paired with pastel bright ANSI colors."
+version = 1
+
+[palette]
+background = "#000000"
+foreground = "#BBBBBB"
+cursor = "#FFA560"
+selection_background = "#363983"
+selection_foreground = "#F2F2F2"
+accent = "#96CBFE"
+black = "#4F4F4F"
+red = "#FF6C60"
+green = "#A8FF60"
+yellow = "#FFFFB6"
+blue = "#96CBFE"
+magenta = "#FF73FD"
+cyan = "#C6C5FE"
+white = "#EEEEEE"
+bright_black = "#7C7C7C"
+bright_red = "#FFB6B0"
+bright_green = "#CEFFAC"
+bright_yellow = "#FFFFCC"
+bright_blue = "#B5DCFF"
+bright_magenta = "#FF9CFE"
+bright_cyan = "#DFDFFE"
+bright_white = "#FFFFFF"

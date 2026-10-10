@@ -1,0 +1,31 @@
+# Drosh theme — Spacegray Eighties. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "spacegray-eighties"
+name = "Spacegray Eighties"
+author = "mhkeller"
+description = "A dark Spacegray variant with brighter 1980s-style accents."
+version = 1
+
+[palette]
+background = "#222222"
+foreground = "#BDBAAE"
+cursor = "#BBBBBB"
+selection_background = "#272E35"
+selection_foreground = "#FFFFFF"
+accent = "#5486C0"
+black = "#15171C"
+red = "#EC5F67"
+green = "#81A764"
+yellow = "#FEC254"
+blue = "#5486C0"
+magenta = "#BF83C1"
+cyan = "#57C2C1"
+white = "#EFECE7"
+bright_black = "#555555"
+bright_red = "#FF6973"
+bright_green = "#93D493"
+bright_yellow = "#FFD256"
+bright_blue = "#4D84D1"
+bright_magenta = "#FF55FF"
+bright_cyan = "#83E9E4"
+bright_white = "#FFFFFF"

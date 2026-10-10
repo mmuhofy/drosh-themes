@@ -1,0 +1,31 @@
+# Drosh theme — Bluloco Dark. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "bluloco-dark"
+name = "Bluloco Dark"
+author = "iTerm2-Color-Schemes"
+description = "A dark editor theme with vivid pink, green and blue accents."
+version = 1
+
+[palette]
+background = "#282C34"
+foreground = "#B9C0CB"
+cursor = "#FFCC00"
+selection_background = "#B9C0CA"
+selection_foreground = "#272B33"
+accent = "#3476FF"
+black = "#41444D"
+red = "#FC2F52"
+green = "#25A45C"
+yellow = "#FF936A"
+blue = "#3476FF"
+magenta = "#7A82DA"
+cyan = "#4483AA"
+white = "#CDD4E0"
+bright_black = "#8F9AAE"
+bright_red = "#FF6480"
+bright_green = "#3FC56B"
+bright_yellow = "#F9C859"
+bright_blue = "#10B1FE"
+bright_magenta = "#FF78F8"
+bright_cyan = "#5FB9BC"
+bright_white = "#FFFFFF"

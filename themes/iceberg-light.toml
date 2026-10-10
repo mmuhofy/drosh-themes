@@ -1,0 +1,31 @@
+# Drosh theme — Iceberg Light. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "iceberg-light"
+name = "Iceberg Light"
+author = "cocopon"
+description = "A pale grey-blue light theme with soft, muted arctic colors."
+version = 1
+
+[palette]
+background = "#E8E9EC"
+foreground = "#33374C"
+cursor = "#33374C"
+selection_background = "#33374C"
+selection_foreground = "#E8E9EC"
+accent = "#2D539E"
+black = "#DCDFE7"
+red = "#CC517A"
+green = "#668E3D"
+yellow = "#C57339"
+blue = "#2D539E"
+magenta = "#7759B4"
+cyan = "#3F83A6"
+white = "#33374C"
+bright_black = "#8389A3"
+bright_red = "#CC3768"
+bright_green = "#598030"
+bright_yellow = "#B6662D"
+bright_blue = "#22478E"
+bright_magenta = "#6845AD"
+bright_cyan = "#327698"
+bright_white = "#262A3F"

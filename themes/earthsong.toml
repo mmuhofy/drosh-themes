@@ -1,0 +1,31 @@
+# Drosh theme — Earthsong. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "earthsong"
+name = "Earthsong"
+author = "zdj"
+description = "A warm dark brown theme with terracotta and leafy green accents."
+version = 1
+
+[palette]
+background = "#292520"
+foreground = "#E5C7A9"
+cursor = "#F6F7EC"
+selection_background = "#121418"
+selection_foreground = "#E5C7A9"
+accent = "#1398B9"
+black = "#121418"
+red = "#C94234"
+green = "#85C54C"
+yellow = "#F5AE2E"
+blue = "#1398B9"
+magenta = "#D0633D"
+cyan = "#509552"
+white = "#E5C6AA"
+bright_black = "#675F54"
+bright_red = "#FF645A"
+bright_green = "#98E036"
+bright_yellow = "#E0D561"
+bright_blue = "#5FDAFF"
+bright_magenta = "#FF9269"
+bright_cyan = "#84F088"
+bright_white = "#F6F7EC"

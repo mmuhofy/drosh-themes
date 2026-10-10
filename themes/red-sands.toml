@@ -1,0 +1,31 @@
+# Drosh theme — Red Sands. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "red-sands"
+name = "Red Sands"
+author = "iTerm2-Color-Schemes"
+description = "A red desert theme with sand-toned text and orange accents."
+version = 1
+
+[palette]
+background = "#7A251E"
+foreground = "#D7C9A7"
+cursor = "#FFFFFF"
+selection_background = "#A4A390"
+selection_foreground = "#000000"
+accent = "#0072FF"
+black = "#000000"
+red = "#FF3F00"
+green = "#00BB00"
+yellow = "#E7B000"
+blue = "#0072FF"
+magenta = "#BB00BB"
+cyan = "#00BBBB"
+white = "#BBBBBB"
+bright_black = "#555555"
+bright_red = "#BB0000"
+bright_green = "#00BB00"
+bright_yellow = "#E7B000"
+bright_blue = "#0072AE"
+bright_magenta = "#FF55FF"
+bright_cyan = "#55FFFF"
+bright_white = "#FFFFFF"

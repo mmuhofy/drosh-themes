@@ -1,0 +1,31 @@
+# Drosh theme — Paraiso Dark. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "paraiso-dark"
+name = "Paraiso Dark"
+author = "Jan T. Sott"
+description = "A dark plum theme with warm coral and emerald accents."
+version = 1
+
+[palette]
+background = "#2F1E2E"
+foreground = "#A39E9B"
+cursor = "#A39E9B"
+selection_background = "#4F424C"
+selection_foreground = "#A39E9B"
+accent = "#06B6EF"
+black = "#2F1E2E"
+red = "#EF6155"
+green = "#48B685"
+yellow = "#FEC418"
+blue = "#06B6EF"
+magenta = "#815BA4"
+cyan = "#5BC4BF"
+white = "#A39E9B"
+bright_black = "#776E71"
+bright_red = "#EF6155"
+bright_green = "#48B685"
+bright_yellow = "#FEC418"
+bright_blue = "#06B6EF"
+bright_magenta = "#815BA4"
+bright_cyan = "#5BC4BF"
+bright_white = "#E7E9DB"

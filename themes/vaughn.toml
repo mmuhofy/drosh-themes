@@ -1,0 +1,31 @@
+# Drosh theme — Vaughn. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "vaughn"
+name = "Vaughn"
+author = "iTerm2-Color-Schemes"
+description = "A deep indigo theme with soft pastel green and pink accents."
+version = 1
+
+[palette]
+background = "#25234F"
+foreground = "#DCDCCC"
+cursor = "#FF5555"
+selection_background = "#B5D5FF"
+selection_foreground = "#000000"
+accent = "#5555FF"
+black = "#25234F"
+red = "#705050"
+green = "#60B48A"
+yellow = "#DFAF8F"
+blue = "#5555FF"
+magenta = "#F08CC3"
+cyan = "#8CD0D3"
+white = "#709080"
+bright_black = "#709080"
+bright_red = "#DCA3A3"
+bright_green = "#60B48A"
+bright_yellow = "#F0DFAF"
+bright_blue = "#5555FF"
+bright_magenta = "#EC93D3"
+bright_cyan = "#93E0E3"
+bright_white = "#FFFFFF"

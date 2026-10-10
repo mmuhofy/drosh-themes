@@ -1,0 +1,31 @@
+# Drosh theme — Tomorrow Night. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "tomorrow-night"
+name = "Tomorrow Night"
+author = "chriskempson"
+description = "A dark grey theme from the Tomorrow family with muted colors."
+version = 1
+
+[palette]
+background = "#1D1F21"
+foreground = "#C5C8C6"
+cursor = "#C5C8C6"
+selection_background = "#373B41"
+selection_foreground = "#C5C8C6"
+accent = "#81A2BE"
+black = "#000000"
+red = "#CC6666"
+green = "#B5BD68"
+yellow = "#F0C674"
+blue = "#81A2BE"
+magenta = "#B294BB"
+cyan = "#8ABEB7"
+white = "#FFFFFF"
+bright_black = "#000000"
+bright_red = "#CC6666"
+bright_green = "#B5BD68"
+bright_yellow = "#F0C674"
+bright_blue = "#81A2BE"
+bright_magenta = "#B294BB"
+bright_cyan = "#8ABEB7"
+bright_white = "#FFFFFF"

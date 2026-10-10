@@ -1,0 +1,31 @@
+# Drosh theme — Fairyfloss. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "fairyfloss"
+name = "Fairyfloss"
+author = "rebecabordini"
+description = "A dreamy pastel purple theme with candy pink and mint highlights."
+version = 1
+
+[palette]
+background = "#5A5475"
+foreground = "#F8F8F2"
+cursor = "#F8F8F0"
+selection_background = "#8077A8"
+selection_foreground = "#F6E1CE"
+accent = "#C2FFDF"
+black = "#040303"
+red = "#F92672"
+green = "#C2FFDF"
+yellow = "#E6C000"
+blue = "#C2FFDF"
+magenta = "#FFB8D1"
+cyan = "#C5A3FF"
+white = "#F8F8F0"
+bright_black = "#6090CB"
+bright_red = "#FF857F"
+bright_green = "#C2FFDF"
+bright_yellow = "#FFEA00"
+bright_blue = "#C2FFDF"
+bright_magenta = "#FFB8D1"
+bright_cyan = "#C5A3FF"
+bright_white = "#F8F8F0"

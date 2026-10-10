@@ -1,0 +1,31 @@
+# Drosh theme — Royal. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "royal"
+name = "Royal"
+author = "zdj"
+description = "A very dark violet theme with subdued, muted terminal colors."
+version = 1
+
+[palette]
+background = "#100815"
+foreground = "#514968"
+cursor = "#524966"
+selection_background = "#1F1D2B"
+selection_foreground = "#A593CD"
+accent = "#6580B0"
+black = "#241F2B"
+red = "#91284C"
+green = "#23801C"
+yellow = "#B49D27"
+blue = "#6580B0"
+magenta = "#674D96"
+cyan = "#8AAABE"
+white = "#524966"
+bright_black = "#312D3D"
+bright_red = "#D5356C"
+bright_green = "#2CD946"
+bright_yellow = "#FDE83B"
+bright_blue = "#90BAF9"
+bright_magenta = "#A479E3"
+bright_cyan = "#ACD4EB"
+bright_white = "#9E8CBD"

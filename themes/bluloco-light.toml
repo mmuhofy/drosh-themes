@@ -1,0 +1,31 @@
+# Drosh theme — Bluloco Light. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "bluloco-light"
+name = "Bluloco Light"
+author = "iTerm2-Color-Schemes"
+description = "A near-white theme with saturated pink, purple and blue accents."
+version = 1
+
+[palette]
+background = "#F9F9F9"
+foreground = "#373A41"
+cursor = "#F32759"
+selection_background = "#DAF0FF"
+selection_foreground = "#373A41"
+accent = "#275FE4"
+black = "#373A41"
+red = "#D52753"
+green = "#23974A"
+yellow = "#DF631C"
+blue = "#275FE4"
+magenta = "#823FF1"
+cyan = "#27618D"
+white = "#BABBC2"
+bright_black = "#676A77"
+bright_red = "#FF6480"
+bright_green = "#3CBC66"
+bright_yellow = "#C5A332"
+bright_blue = "#0099E1"
+bright_magenta = "#CE33C0"
+bright_cyan = "#6D93BB"
+bright_white = "#D3D3D3"

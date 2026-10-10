@@ -1,0 +1,31 @@
+# Drosh theme — Zenburn. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "zenburn"
+name = "Zenburn"
+author = "Suraj N. Kurapati"
+description = "A medium grey theme with low-contrast warm, earthy colors."
+version = 1
+
+[palette]
+background = "#3F3F3F"
+foreground = "#DCDCCC"
+cursor = "#73635A"
+selection_background = "#21322F"
+selection_foreground = "#C2D87A"
+accent = "#506070"
+black = "#4D4D4D"
+red = "#705050"
+green = "#60B48A"
+yellow = "#F0DFAF"
+blue = "#506070"
+magenta = "#DC8CC3"
+cyan = "#8CD0D3"
+white = "#DCDCCC"
+bright_black = "#709080"
+bright_red = "#DCA3A3"
+bright_green = "#C3BF9F"
+bright_yellow = "#E0CF9F"
+bright_blue = "#94BFF3"
+bright_magenta = "#EC93D3"
+bright_cyan = "#93E0E3"
+bright_white = "#FFFFFF"

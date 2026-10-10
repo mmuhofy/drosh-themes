@@ -1,0 +1,31 @@
+# Drosh theme — Ocean. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "ocean"
+name = "Ocean"
+author = "iTerm2-Color-Schemes"
+description = "A saturated blue-background theme with vivid terminal colors."
+version = 1
+
+[palette]
+background = "#224FBC"
+foreground = "#FFFFFF"
+cursor = "#7F7F7F"
+selection_background = "#216DFF"
+selection_foreground = "#FFFFFF"
+accent = "#0000B2"
+black = "#000000"
+red = "#990000"
+green = "#00A600"
+yellow = "#999900"
+blue = "#0000B2"
+magenta = "#B200B2"
+cyan = "#00A6B2"
+white = "#BFBFBF"
+bright_black = "#666666"
+bright_red = "#E50000"
+bright_green = "#00D900"
+bright_yellow = "#E5E500"
+bright_blue = "#0000FF"
+bright_magenta = "#E500E5"
+bright_cyan = "#00E5E5"
+bright_white = "#E5E5E5"

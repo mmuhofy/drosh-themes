@@ -1,0 +1,31 @@
+# Drosh theme — Vibrant Ink. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "vibrant-ink"
+name = "Vibrant Ink"
+author = "asanghi"
+description = "A black theme with vivid orange, cyan and green retro ink colors."
+version = 1
+
+[palette]
+background = "#000000"
+foreground = "#FFFFFF"
+cursor = "#FFFFFF"
+selection_background = "#B5D5FF"
+selection_foreground = "#000000"
+accent = "#44B4CC"
+black = "#878787"
+red = "#FF6600"
+green = "#CCFF04"
+yellow = "#FFCC00"
+blue = "#44B4CC"
+magenta = "#9933CC"
+cyan = "#44B4CC"
+white = "#F5F5F5"
+bright_black = "#555555"
+bright_red = "#FF0000"
+bright_green = "#00FF00"
+bright_yellow = "#FFFF00"
+bright_blue = "#0000FF"
+bright_magenta = "#FF00FF"
+bright_cyan = "#00FFFF"
+bright_white = "#E5E5E5"

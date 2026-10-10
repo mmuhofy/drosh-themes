@@ -1,0 +1,31 @@
+# Drosh theme — Tomorrow Night Bright. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "tomorrow-night-bright"
+name = "Tomorrow Night Bright"
+author = "chriskempson"
+description = "A black-background Tomorrow variant with bright pastel accents."
+version = 1
+
+[palette]
+background = "#000000"
+foreground = "#EAEAEA"
+cursor = "#EAEAEA"
+selection_background = "#424242"
+selection_foreground = "#EAEAEA"
+accent = "#7AA6DA"
+black = "#000000"
+red = "#D54E53"
+green = "#B9CA4A"
+yellow = "#E7C547"
+blue = "#7AA6DA"
+magenta = "#C397D8"
+cyan = "#70C0B1"
+white = "#FFFFFF"
+bright_black = "#000000"
+bright_red = "#D54E53"
+bright_green = "#B9CA4A"
+bright_yellow = "#E7C547"
+bright_blue = "#7AA6DA"
+bright_magenta = "#C397D8"
+bright_cyan = "#70C0B1"
+bright_white = "#FFFFFF"

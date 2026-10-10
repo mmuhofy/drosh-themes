@@ -1,0 +1,31 @@
+# Drosh theme — Flatland. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "flatland"
+name = "Flatland"
+author = "realchaseadams"
+description = "A dark grey theme with warm yellow, green and violet highlights."
+version = 1
+
+[palette]
+background = "#1D1F21"
+foreground = "#B8DBEF"
+cursor = "#708284"
+selection_background = "#2B2A24"
+selection_foreground = "#FFFFFF"
+accent = "#5096BE"
+black = "#1D1D19"
+red = "#F18339"
+green = "#9FD364"
+yellow = "#F4EF6D"
+blue = "#5096BE"
+magenta = "#695ABC"
+cyan = "#D63865"
+white = "#FFFFFF"
+bright_black = "#1D1D19"
+bright_red = "#D22A24"
+bright_green = "#A7D42C"
+bright_yellow = "#FF8949"
+bright_blue = "#61B9D0"
+bright_magenta = "#695ABC"
+bright_cyan = "#D63865"
+bright_white = "#FFFFFF"

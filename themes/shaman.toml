@@ -1,0 +1,31 @@
+# Drosh theme — Shaman. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "shaman"
+name = "Shaman"
+author = "zdj"
+description = "A deep teal-black theme with low-contrast earth and sea colors."
+version = 1
+
+[palette]
+background = "#001015"
+foreground = "#405555"
+cursor = "#4AFCD6"
+selection_background = "#415555"
+selection_foreground = "#5AFAD6"
+accent = "#449A86"
+black = "#012026"
+red = "#B2302D"
+green = "#00A941"
+yellow = "#5E8BAA"
+blue = "#449A86"
+magenta = "#00599D"
+cyan = "#5D7E19"
+white = "#405555"
+bright_black = "#384451"
+bright_red = "#FF4242"
+bright_green = "#2AEA5E"
+bright_yellow = "#8ED4FD"
+bright_blue = "#61D5BA"
+bright_magenta = "#1298FF"
+bright_cyan = "#98D028"
+bright_white = "#58FBD6"

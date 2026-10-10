@@ -1,0 +1,31 @@
+# Drosh theme — Synthwave Alpha. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "synthwave-alpha"
+name = "Synthwave Alpha"
+author = "vikpe"
+description = "A dark purple synthwave theme with glowing neon accents."
+version = 1
+
+[palette]
+background = "#241B30"
+foreground = "#F2F2E3"
+cursor = "#F2F2E3"
+selection_background = "#6E29AD"
+selection_foreground = "#F2F2E3"
+accent = "#6E29AD"
+black = "#241B30"
+red = "#E60A70"
+green = "#00986C"
+yellow = "#ADAD3E"
+blue = "#6E29AD"
+magenta = "#B300AD"
+cyan = "#00B0B1"
+white = "#B9B1BC"
+bright_black = "#7F7094"
+bright_red = "#E60A70"
+bright_green = "#0AE4A4"
+bright_yellow = "#F9F972"
+bright_blue = "#AA54F9"
+bright_magenta = "#FF00F6"
+bright_cyan = "#00FBFD"
+bright_white = "#F2F2E3"

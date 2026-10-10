@@ -1,0 +1,31 @@
+# Drosh theme — Birds Of Paradise. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "birds-of-paradise"
+name = "Birds Of Paradise"
+author = "zdj"
+description = "A dark brown scheme with muted tropical greens, blues and golds."
+version = 1
+
+[palette]
+background = "#2A1F1D"
+foreground = "#E0DBB7"
+cursor = "#573D26"
+selection_background = "#563C27"
+selection_foreground = "#E0DBBB"
+accent = "#5A86AD"
+black = "#573D26"
+red = "#BE2D26"
+green = "#6BA18A"
+yellow = "#E99D2A"
+blue = "#5A86AD"
+magenta = "#AC80A6"
+cyan = "#74A6AD"
+white = "#E0DBB7"
+bright_black = "#9B6C4A"
+bright_red = "#E84627"
+bright_green = "#95D8BA"
+bright_yellow = "#D0D150"
+bright_blue = "#B8D3ED"
+bright_magenta = "#D19ECB"
+bright_cyan = "#93CFD7"
+bright_white = "#FFF9D5"

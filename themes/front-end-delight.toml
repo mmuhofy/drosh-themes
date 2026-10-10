@@ -1,0 +1,31 @@
+# Drosh theme — Front End Delight. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "front-end-delight"
+name = "Front End Delight"
+author = "zdj"
+description = "A dark neutral theme with high-contrast orange and red accents."
+version = 1
+
+[palette]
+background = "#1B1C1D"
+foreground = "#ADADAD"
+cursor = "#CDCDCD"
+selection_background = "#EA6154"
+selection_foreground = "#1B1C1D"
+accent = "#2C70B7"
+black = "#242526"
+red = "#F8511B"
+green = "#565747"
+yellow = "#FA771D"
+blue = "#2C70B7"
+magenta = "#F02E4F"
+cyan = "#3CA1A6"
+white = "#ADADAD"
+bright_black = "#5FAC6D"
+bright_red = "#F74319"
+bright_green = "#74EC4C"
+bright_yellow = "#FDC325"
+bright_blue = "#3393CA"
+bright_magenta = "#E75E4F"
+bright_cyan = "#4FBCE6"
+bright_white = "#8C735B"

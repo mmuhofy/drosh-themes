@@ -1,0 +1,31 @@
+# Drosh theme — Dracula. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "dracula"
+name = "Dracula"
+author = "zenorocha"
+description = "A dark purple-tinted theme with vivid pink, green and purple accents."
+version = 1
+
+[palette]
+background = "#282A36"
+foreground = "#F8F8F2"
+cursor = "#F8F8F2"
+selection_background = "#44475A"
+selection_foreground = "#FFFFFF"
+accent = "#BD93F9"
+black = "#21222C"
+red = "#FF5555"
+green = "#50FA7B"
+yellow = "#F1FA8C"
+blue = "#BD93F9"
+magenta = "#FF79C6"
+cyan = "#8BE9FD"
+white = "#F8F8F2"
+bright_black = "#6272A4"
+bright_red = "#FF6E6E"
+bright_green = "#69FF94"
+bright_yellow = "#FFFFA5"
+bright_blue = "#D6ACFF"
+bright_magenta = "#FF92DF"
+bright_cyan = "#A4FFFF"
+bright_white = "#FFFFFF"

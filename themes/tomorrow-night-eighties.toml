@@ -1,0 +1,31 @@
+# Drosh theme — Tomorrow Night Eighties. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "tomorrow-night-eighties"
+name = "Tomorrow Night Eighties"
+author = "chriskempson"
+description = "A dark grey Tomorrow variant with soft 1980s pastels."
+version = 1
+
+[palette]
+background = "#2D2D2D"
+foreground = "#CCCCCC"
+cursor = "#CCCCCC"
+selection_background = "#515151"
+selection_foreground = "#CCCCCC"
+accent = "#6699CC"
+black = "#000000"
+red = "#F2777A"
+green = "#99CC99"
+yellow = "#FFCC66"
+blue = "#6699CC"
+magenta = "#CC99CC"
+cyan = "#66CCCC"
+white = "#FFFFFF"
+bright_black = "#000000"
+bright_red = "#F2777A"
+bright_green = "#99CC99"
+bright_yellow = "#FFCC66"
+bright_blue = "#6699CC"
+bright_magenta = "#CC99CC"
+bright_cyan = "#66CCCC"
+bright_white = "#FFFFFF"

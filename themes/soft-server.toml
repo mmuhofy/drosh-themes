@@ -1,0 +1,31 @@
+# Drosh theme — Soft Server. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "soft-server"
+name = "Soft Server"
+author = "zdj"
+description = "A dark grey theme with quiet, desaturated sage and blue tones."
+version = 1
+
+[palette]
+background = "#242626"
+foreground = "#99A3A2"
+cursor = "#D2E0DE"
+selection_background = "#7F8786"
+selection_foreground = "#EFFFFE"
+accent = "#6B8FA3"
+black = "#000000"
+red = "#A2686A"
+green = "#9AA56A"
+yellow = "#A3906A"
+blue = "#6B8FA3"
+magenta = "#6A71A3"
+cyan = "#6BA58F"
+white = "#99A3A2"
+bright_black = "#666C6C"
+bright_red = "#DD5C60"
+bright_green = "#BFDF55"
+bright_yellow = "#DEB360"
+bright_blue = "#62B1DF"
+bright_magenta = "#606EDF"
+bright_cyan = "#64E39C"
+bright_white = "#D2E0DE"

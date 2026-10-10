@@ -1,0 +1,31 @@
+# Drosh theme — TokyoNight. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "tokyonight"
+name = "TokyoNight"
+author = "folke"
+description = "A deep indigo theme with soft blue and pink night-time accents."
+version = 1
+
+[palette]
+background = "#1A1B26"
+foreground = "#C0CAF5"
+cursor = "#C0CAF5"
+selection_background = "#33467C"
+selection_foreground = "#C0CAF5"
+accent = "#7AA2F7"
+black = "#15161E"
+red = "#F7768E"
+green = "#9ECE6A"
+yellow = "#E0AF68"
+blue = "#7AA2F7"
+magenta = "#BB9AF7"
+cyan = "#7DCFFF"
+white = "#A9B1D6"
+bright_black = "#414868"
+bright_red = "#F7768E"
+bright_green = "#9ECE6A"
+bright_yellow = "#E0AF68"
+bright_blue = "#7AA2F7"
+bright_magenta = "#BB9AF7"
+bright_cyan = "#7DCFFF"
+bright_white = "#C0CAF5"

@@ -1,0 +1,31 @@
+# Drosh theme — Flat. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "flat"
+name = "Flat"
+author = "ahmetsulek"
+description = "A deep navy theme built on the flat design palette."
+version = 1
+
+[palette]
+background = "#002240"
+foreground = "#2CC55D"
+cursor = "#E5BE0C"
+selection_background = "#792B9C"
+selection_foreground = "#FFFFFF"
+accent = "#3167AC"
+black = "#222D3F"
+red = "#A82320"
+green = "#32A548"
+yellow = "#E58D11"
+blue = "#3167AC"
+magenta = "#781AA0"
+cyan = "#2C9370"
+white = "#B0B6BA"
+bright_black = "#212C3C"
+bright_red = "#D4312E"
+bright_green = "#2D9440"
+bright_yellow = "#E5BE0C"
+bright_blue = "#3C7DD2"
+bright_magenta = "#8230A7"
+bright_cyan = "#35B387"
+bright_white = "#E7ECED"

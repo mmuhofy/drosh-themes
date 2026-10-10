@@ -1,0 +1,31 @@
+# Drosh theme — GitHub. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "github"
+name = "GitHub"
+author = "iTerm2-Color-Schemes"
+description = "A clean light theme modeled on GitHub’s documentation pages."
+version = 1
+
+[palette]
+background = "#F4F4F4"
+foreground = "#3E3E3E"
+cursor = "#3F3F3F"
+selection_background = "#A9C1E2"
+selection_foreground = "#535353"
+accent = "#003E8A"
+black = "#3E3E3E"
+red = "#970B16"
+green = "#07962A"
+yellow = "#F8EEC7"
+blue = "#003E8A"
+magenta = "#E94691"
+cyan = "#89D1EC"
+white = "#FFFFFF"
+bright_black = "#666666"
+bright_red = "#DE0000"
+bright_green = "#87D5A2"
+bright_yellow = "#F1D007"
+bright_blue = "#2E6CBA"
+bright_magenta = "#FFA29F"
+bright_cyan = "#1CFAFE"
+bright_white = "#FFFFFF"

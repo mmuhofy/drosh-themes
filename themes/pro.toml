@@ -1,0 +1,31 @@
+# Drosh theme — Pro. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "pro"
+name = "Pro"
+author = "Monokai"
+description = "A black theme with the classic bright ANSI terminal palette."
+version = 1
+
+[palette]
+background = "#000000"
+foreground = "#F2F2F2"
+cursor = "#4D4D4D"
+selection_background = "#414141"
+selection_foreground = "#000000"
+accent = "#2009DB"
+black = "#000000"
+red = "#990000"
+green = "#00A600"
+yellow = "#999900"
+blue = "#2009DB"
+magenta = "#B200B2"
+cyan = "#00A6B2"
+white = "#BFBFBF"
+bright_black = "#666666"
+bright_red = "#E50000"
+bright_green = "#00D900"
+bright_yellow = "#E5E500"
+bright_blue = "#0000FF"
+bright_magenta = "#E500E5"
+bright_cyan = "#00E5E5"
+bright_white = "#E5E5E5"

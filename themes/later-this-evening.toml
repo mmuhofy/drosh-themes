@@ -1,0 +1,31 @@
+# Drosh theme — Later This Evening. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "later-this-evening"
+name = "Later This Evening"
+author = "vilhalmer"
+description = "A grey theme with muted, low-key pastel syntax colors."
+version = 1
+
+[palette]
+background = "#222222"
+foreground = "#959595"
+cursor = "#424242"
+selection_background = "#424242"
+selection_foreground = "#959595"
+accent = "#A0BAD6"
+black = "#2B2B2B"
+red = "#D45A60"
+green = "#AFBA67"
+yellow = "#E5D289"
+blue = "#A0BAD6"
+magenta = "#C092D6"
+cyan = "#91BFB7"
+white = "#3C3D3D"
+bright_black = "#454747"
+bright_red = "#D3232F"
+bright_green = "#AABB39"
+bright_yellow = "#E5BE39"
+bright_blue = "#6699D6"
+bright_magenta = "#AB53D6"
+bright_cyan = "#5FC0AE"
+bright_white = "#C1C2C2"

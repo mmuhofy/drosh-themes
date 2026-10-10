@@ -1,0 +1,31 @@
+# Drosh theme — Synthwave. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "synthwave"
+name = "Synthwave"
+author = "brettstil"
+description = "A black theme with neon pink, cyan and yellow synthwave colors."
+version = 1
+
+[palette]
+background = "#000000"
+foreground = "#DAD9C7"
+cursor = "#19CDE6"
+selection_background = "#19CDE6"
+selection_foreground = "#000000"
+accent = "#2186EC"
+black = "#000000"
+red = "#F6188F"
+green = "#1EBB2B"
+yellow = "#FDF834"
+blue = "#2186EC"
+magenta = "#F85A21"
+cyan = "#12C3E2"
+white = "#FFFFFF"
+bright_black = "#7F7094"
+bright_red = "#F841A0"
+bright_green = "#25C141"
+bright_yellow = "#FDF454"
+bright_blue = "#2F9DED"
+bright_magenta = "#F97137"
+bright_cyan = "#19CDE6"
+bright_white = "#FFFFFF"

@@ -1,0 +1,31 @@
+# Drosh theme — Jellybeans. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "jellybeans"
+name = "Jellybeans"
+author = "qtpi"
+description = "A dark theme with candy-like pink, green and orange accents."
+version = 1
+
+[palette]
+background = "#121212"
+foreground = "#DEDEDE"
+cursor = "#FFA560"
+selection_background = "#474E91"
+selection_foreground = "#F4F4F4"
+accent = "#97BEDC"
+black = "#929292"
+red = "#E27373"
+green = "#94B979"
+yellow = "#FFBA7B"
+blue = "#97BEDC"
+magenta = "#E1C0FA"
+cyan = "#00988E"
+white = "#DEDEDE"
+bright_black = "#BDBDBD"
+bright_red = "#FFA1A1"
+bright_green = "#BDDEAB"
+bright_yellow = "#FFDCA0"
+bright_blue = "#B1D8F6"
+bright_magenta = "#FBDAFF"
+bright_cyan = "#1AB2A8"
+bright_white = "#FFFFFF"

@@ -1,0 +1,31 @@
+# Drosh theme — Man Page. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "man-page"
+name = "Man Page"
+author = "iTerm2-Color-Schemes"
+description = "A pale yellow theme modeled on classic UNIX manual pages."
+version = 1
+
+[palette]
+background = "#FEF49C"
+foreground = "#000000"
+cursor = "#7F7F7F"
+selection_background = "#A4C9CD"
+selection_foreground = "#000000"
+accent = "#0000B2"
+black = "#000000"
+red = "#CC0000"
+green = "#00A600"
+yellow = "#999900"
+blue = "#0000B2"
+magenta = "#B200B2"
+cyan = "#00A6B2"
+white = "#CCCCCC"
+bright_black = "#666666"
+bright_red = "#E50000"
+bright_green = "#00D900"
+bright_yellow = "#E5E500"
+bright_blue = "#0000FF"
+bright_magenta = "#E500E5"
+bright_cyan = "#00E5E5"
+bright_white = "#E5E5E5"

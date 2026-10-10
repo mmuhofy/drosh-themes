@@ -1,0 +1,31 @@
+# Drosh theme — Material Ocean. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "material-ocean"
+name = "Material Ocean"
+author = "fr3fou"
+description = "A deep navy-blue Material theme with cool, muted accents."
+version = 1
+
+[palette]
+background = "#0F111A"
+foreground = "#8F93A2"
+cursor = "#FFCC00"
+selection_background = "#1F2233"
+selection_foreground = "#8F93A2"
+accent = "#82AAFF"
+black = "#546E7A"
+red = "#FF5370"
+green = "#C3E88D"
+yellow = "#FFCB6B"
+blue = "#82AAFF"
+magenta = "#C792EA"
+cyan = "#89DDFF"
+white = "#FFFFFF"
+bright_black = "#546E7A"
+bright_red = "#FF5370"
+bright_green = "#C3E88D"
+bright_yellow = "#FFCB6B"
+bright_blue = "#82AAFF"
+bright_magenta = "#C792EA"
+bright_cyan = "#89DDFF"
+bright_white = "#FFFFFF"

@@ -1,0 +1,31 @@
+# Drosh theme — Chalk. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "chalk"
+name = "Chalk"
+author = "achalv"
+description = "A cool dark grey theme with chalky, desaturated syntax colors."
+version = 1
+
+[palette]
+background = "#2B2D2E"
+foreground = "#D2D8D9"
+cursor = "#708284"
+selection_background = "#E4E8ED"
+selection_foreground = "#3F4041"
+accent = "#2A7FAC"
+black = "#7D8B8F"
+red = "#B23A52"
+green = "#789B6A"
+yellow = "#B9AC4A"
+blue = "#2A7FAC"
+magenta = "#BD4F5A"
+cyan = "#44A799"
+white = "#D2D8D9"
+bright_black = "#888888"
+bright_red = "#F24840"
+bright_green = "#80C470"
+bright_yellow = "#FFEB62"
+bright_blue = "#4196FF"
+bright_magenta = "#FC5275"
+bright_cyan = "#53CDBD"
+bright_white = "#D2D8D9"

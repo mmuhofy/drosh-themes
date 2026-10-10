@@ -1,0 +1,31 @@
+# Drosh theme — Dimmed Monokai. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "dimmed-monokai"
+name = "Dimmed Monokai"
+author = "zdj"
+description = "A toned-down Monokai variant with greyed-down syntax colors."
+version = 1
+
+[palette]
+background = "#1F1F1F"
+foreground = "#B9BCBA"
+cursor = "#F83E19"
+selection_background = "#2A2D32"
+selection_foreground = "#B9BCBA"
+accent = "#4F76A1"
+black = "#3A3D43"
+red = "#BE3F48"
+green = "#879A3B"
+yellow = "#C5A635"
+blue = "#4F76A1"
+magenta = "#855C8D"
+cyan = "#578FA4"
+white = "#B9BCBA"
+bright_black = "#888987"
+bright_red = "#FB001F"
+bright_green = "#0F722F"
+bright_yellow = "#C47033"
+bright_blue = "#186DE3"
+bright_magenta = "#FB0067"
+bright_cyan = "#2E706D"
+bright_white = "#FDFFB9"

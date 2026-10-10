@@ -1,0 +1,31 @@
+# Drosh theme — Gruvbox Light. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "gruvbox-light"
+name = "Gruvbox Light"
+author = "morhetz"
+description = "A warm cream-background theme with the retro Gruvbox palette."
+version = 1
+
+[palette]
+background = "#FBF1C7"
+foreground = "#3C3836"
+cursor = "#3C3836"
+selection_background = "#3C3836"
+selection_foreground = "#FBF1C7"
+accent = "#458588"
+black = "#FBF1C7"
+red = "#CC241D"
+green = "#98971A"
+yellow = "#D79921"
+blue = "#458588"
+magenta = "#B16286"
+cyan = "#689D6A"
+white = "#7C6F64"
+bright_black = "#928374"
+bright_red = "#9D0006"
+bright_green = "#79740E"
+bright_yellow = "#B57614"
+bright_blue = "#076678"
+bright_magenta = "#8F3F71"
+bright_cyan = "#427B58"
+bright_white = "#3C3836"

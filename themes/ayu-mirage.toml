@@ -1,0 +1,31 @@
+# Drosh theme — Ayu Mirage. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "ayu-mirage"
+name = "Ayu Mirage"
+author = "alebcay"
+description = "A dark slate-blue theme with soft, desaturated mid-tone colors."
+version = 1
+
+[palette]
+background = "#1F2430"
+foreground = "#CCCAC2"
+cursor = "#FFCC66"
+selection_background = "#409FFF"
+selection_foreground = "#1F2430"
+accent = "#6DCBFA"
+black = "#171B24"
+red = "#ED8274"
+green = "#87D96C"
+yellow = "#FACC6E"
+blue = "#6DCBFA"
+magenta = "#DABAFA"
+cyan = "#90E1C6"
+white = "#C7C7C7"
+bright_black = "#686868"
+bright_red = "#F28779"
+bright_green = "#D5FF80"
+bright_yellow = "#FFD173"
+bright_blue = "#73D0FF"
+bright_magenta = "#DFBFFF"
+bright_cyan = "#95E6CB"
+bright_white = "#FFFFFF"

@@ -1,0 +1,31 @@
+# Drosh theme — Highway. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "highway"
+name = "Highway"
+author = "zdj"
+description = "A dark neutral theme with bright yellow and deep blue road-sign colors."
+version = 1
+
+[palette]
+background = "#222225"
+foreground = "#EDEDED"
+cursor = "#E0D9B9"
+selection_background = "#384564"
+selection_foreground = "#EDEDED"
+accent = "#006BB3"
+black = "#000000"
+red = "#D00E18"
+green = "#138034"
+yellow = "#FFCB3E"
+blue = "#006BB3"
+magenta = "#6B2775"
+cyan = "#384564"
+white = "#EDEDED"
+bright_black = "#5D504A"
+bright_red = "#F07E18"
+bright_green = "#B1D130"
+bright_yellow = "#FFF120"
+bright_blue = "#4FC2FD"
+bright_magenta = "#DE0071"
+bright_cyan = "#5D504A"
+bright_white = "#FFFFFF"

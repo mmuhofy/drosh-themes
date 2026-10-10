@@ -1,0 +1,31 @@
+# Drosh theme — C64. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "c64"
+name = "C64"
+author = "Jan T. Sott"
+description = "A Commodore 64 inspired theme with a violet background and muted blues."
+version = 1
+
+[palette]
+background = "#40318D"
+foreground = "#7869C4"
+cursor = "#7869C4"
+selection_background = "#7869C4"
+selection_foreground = "#40318D"
+accent = "#40318D"
+black = "#090300"
+red = "#883932"
+green = "#55A049"
+yellow = "#BFCE72"
+blue = "#40318D"
+magenta = "#8B3F96"
+cyan = "#67B6BD"
+white = "#FFFFFF"
+bright_black = "#000000"
+bright_red = "#883932"
+bright_green = "#55A049"
+bright_yellow = "#BFCE72"
+bright_blue = "#40318D"
+bright_magenta = "#8B3F96"
+bright_cyan = "#67B6BD"
+bright_white = "#F7F7F7"

@@ -1,0 +1,31 @@
+# Drosh theme — Wild Cherry. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "wild-cherry"
+name = "Wild Cherry"
+author = "mashaal"
+description = "A deep purple theme with hot pink and bright violet accents."
+version = 1
+
+[palette]
+background = "#1F1726"
+foreground = "#DAFAFF"
+cursor = "#DD00FF"
+selection_background = "#002831"
+selection_foreground = "#E4FFFF"
+accent = "#883CDC"
+black = "#000507"
+red = "#D94085"
+green = "#2AB250"
+yellow = "#FFD16F"
+blue = "#883CDC"
+magenta = "#ECECEC"
+cyan = "#C1B8B7"
+white = "#FFF8DE"
+bright_black = "#009CC9"
+bright_red = "#DA6BAC"
+bright_green = "#F4DCA5"
+bright_yellow = "#EAC066"
+bright_blue = "#308CBA"
+bright_magenta = "#AE636B"
+bright_cyan = "#FF919D"
+bright_white = "#E4838D"

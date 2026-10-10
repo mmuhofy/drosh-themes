@@ -1,0 +1,31 @@
+# Drosh theme — Horizon. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "horizon"
+name = "Horizon"
+author = "jolaleye"
+description = "A dark charcoal theme with hot coral, mint and sky-blue accents."
+version = 1
+
+[palette]
+background = "#1C1E26"
+foreground = "#D5D8DA"
+cursor = "#6C6F93"
+selection_background = "#6C6F93"
+selection_foreground = "#1C1E26"
+accent = "#26BBD9"
+black = "#000000"
+red = "#E95678"
+green = "#29D398"
+yellow = "#FAB795"
+blue = "#26BBD9"
+magenta = "#EE64AC"
+cyan = "#59E1E3"
+white = "#E5E5E5"
+bright_black = "#666666"
+bright_red = "#EC6A88"
+bright_green = "#3FDAA4"
+bright_yellow = "#FBC3A7"
+bright_blue = "#3FC4DE"
+bright_magenta = "#F075B5"
+bright_cyan = "#6BE4E6"
+bright_white = "#E5E5E5"

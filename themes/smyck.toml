@@ -1,0 +1,31 @@
+# Drosh theme — Smyck. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "smyck"
+name = "Smyck"
+author = "hukl"
+description = "A dark grey theme with warm orange, green and blue accents."
+version = 1
+
+[palette]
+background = "#1B1B1B"
+foreground = "#F7F7F7"
+cursor = "#BBBBBB"
+selection_background = "#207483"
+selection_foreground = "#F7F7F7"
+accent = "#62A3C4"
+black = "#000000"
+red = "#B84131"
+green = "#7DA900"
+yellow = "#C4A500"
+blue = "#62A3C4"
+magenta = "#BA8ACC"
+cyan = "#207383"
+white = "#A1A1A1"
+bright_black = "#7A7A7A"
+bright_red = "#D6837C"
+bright_green = "#C4F137"
+bright_yellow = "#FEE14D"
+bright_blue = "#8DCFF0"
+bright_magenta = "#F79AFF"
+bright_cyan = "#6AD9CF"
+bright_white = "#F7F7F7"

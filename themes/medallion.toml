@@ -1,0 +1,31 @@
+# Drosh theme — Medallion. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "medallion"
+name = "Medallion"
+author = "zdj"
+description = "A dark olive-bronze theme with muted gold and green tones."
+version = 1
+
+[palette]
+background = "#1D1908"
+foreground = "#CAC296"
+cursor = "#D3BA30"
+selection_background = "#626DAC"
+selection_foreground = "#CAC29A"
+accent = "#616BB0"
+black = "#000000"
+red = "#B64C00"
+green = "#7C8B16"
+yellow = "#D3BD26"
+blue = "#616BB0"
+magenta = "#8C5A90"
+cyan = "#916C25"
+white = "#CAC29A"
+bright_black = "#5E5219"
+bright_red = "#FF9149"
+bright_green = "#B2CA3B"
+bright_yellow = "#FFE54A"
+bright_blue = "#ACB8FF"
+bright_magenta = "#FFA0FF"
+bright_cyan = "#FFBC51"
+bright_white = "#FED698"

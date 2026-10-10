@@ -1,0 +1,31 @@
+# Drosh theme — Twilight. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "twilight"
+name = "Twilight"
+author = "stefri"
+description = "A very dark theme with soft, warm grey and olive accents."
+version = 1
+
+[palette]
+background = "#141414"
+foreground = "#FFFFD4"
+cursor = "#FFFFFF"
+selection_background = "#313131"
+selection_foreground = "#FFFFD4"
+accent = "#44474A"
+black = "#141414"
+red = "#C06D44"
+green = "#AFB97A"
+yellow = "#C2A86C"
+blue = "#44474A"
+magenta = "#B4BE7C"
+cyan = "#778385"
+white = "#FFFFD4"
+bright_black = "#262626"
+bright_red = "#DE7C4C"
+bright_green = "#CCD88C"
+bright_yellow = "#E2C47E"
+bright_blue = "#5A5E62"
+bright_magenta = "#D0DC8E"
+bright_cyan = "#8A989B"
+bright_white = "#FFFFD4"

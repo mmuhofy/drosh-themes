@@ -1,0 +1,31 @@
+# Drosh theme — Catppuccin Frappe. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "catppuccin-frappe"
+name = "Catppuccin Frappe"
+author = "Catppuccin"
+description = "A soft lavender-grey dark theme from the Catppuccin family."
+version = 1
+
+[palette]
+background = "#303446"
+foreground = "#C6D0F5"
+cursor = "#F2D5CF"
+selection_background = "#F2D5CF"
+selection_foreground = "#303446"
+accent = "#8CAAEE"
+black = "#51576D"
+red = "#E78284"
+green = "#A6D189"
+yellow = "#E5C890"
+blue = "#8CAAEE"
+magenta = "#F4B8E4"
+cyan = "#81C8BE"
+white = "#B5BFE2"
+bright_black = "#626880"
+bright_red = "#EDA0A2"
+bright_green = "#B9DBA2"
+bright_yellow = "#ECD7AE"
+bright_blue = "#ADC2F3"
+bright_magenta = "#F38ED8"
+bright_cyan = "#98D2CA"
+bright_white = "#A5ADCE"

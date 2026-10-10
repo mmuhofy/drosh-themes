@@ -1,0 +1,31 @@
+# Drosh theme — Wryan. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "wryan"
+name = "Wryan"
+author = "baskerville"
+description = "A very dark theme with muted maroon, teal and indigo accents."
+version = 1
+
+[palette]
+background = "#101010"
+foreground = "#999993"
+cursor = "#9E9ECB"
+selection_background = "#4D4D4D"
+selection_foreground = "#FFFFFF"
+accent = "#395573"
+black = "#333333"
+red = "#8C4665"
+green = "#287373"
+yellow = "#7C7C99"
+blue = "#395573"
+magenta = "#5E468C"
+cyan = "#31658C"
+white = "#899CA1"
+bright_black = "#3D3D3D"
+bright_red = "#BF4D80"
+bright_green = "#53A6A6"
+bright_yellow = "#9E9ECB"
+bright_blue = "#477AB3"
+bright_magenta = "#7E62B3"
+bright_cyan = "#6096BF"
+bright_white = "#C0C0C0"

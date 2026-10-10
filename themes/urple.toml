@@ -1,0 +1,31 @@
+# Drosh theme — Urple. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "urple"
+name = "Urple"
+author = "zdj"
+description = "A dark violet theme with muted purple and blue-green accents."
+version = 1
+
+[palette]
+background = "#1B1B23"
+foreground = "#877A9B"
+cursor = "#A063EB"
+selection_background = "#A063EB"
+selection_foreground = "#1B1B22"
+accent = "#564D9B"
+black = "#000000"
+red = "#B0425B"
+green = "#37A415"
+yellow = "#AD5C42"
+blue = "#564D9B"
+magenta = "#6C3CA1"
+cyan = "#808080"
+white = "#87799C"
+bright_black = "#5D3225"
+bright_red = "#FF6388"
+bright_green = "#29E620"
+bright_yellow = "#F08161"
+bright_blue = "#867AED"
+bright_magenta = "#A05EEE"
+bright_cyan = "#EAEAEA"
+bright_white = "#BFA3FF"

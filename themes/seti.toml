@@ -1,0 +1,31 @@
+# Drosh theme — Seti. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "seti"
+name = "Seti"
+author = "jesseweed"
+description = "A near-black theme with bright green and cyan accents."
+version = 1
+
+[palette]
+background = "#111213"
+foreground = "#CACECD"
+cursor = "#E3BF21"
+selection_background = "#303233"
+selection_foreground = "#CACECD"
+accent = "#43A5D5"
+black = "#323232"
+red = "#C22832"
+green = "#8EC43D"
+yellow = "#E0C64F"
+blue = "#43A5D5"
+magenta = "#8B57B5"
+cyan = "#8EC43D"
+white = "#EEEEEE"
+bright_black = "#323232"
+bright_red = "#C22832"
+bright_green = "#8EC43D"
+bright_yellow = "#E0C64F"
+bright_blue = "#43A5D5"
+bright_magenta = "#8B57B5"
+bright_cyan = "#8EC43D"
+bright_white = "#FFFFFF"

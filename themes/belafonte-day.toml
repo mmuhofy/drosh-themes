@@ -1,0 +1,31 @@
+# Drosh theme — Belafonte Day. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "belafonte-day"
+name = "Belafonte Day"
+author = "Jan T. Sott"
+description = "A warm parchment theme with earthy reds and olive greens."
+version = 1
+
+[palette]
+background = "#D5CCBA"
+foreground = "#45373C"
+cursor = "#45373C"
+selection_background = "#968C83"
+selection_foreground = "#45373C"
+accent = "#426A79"
+black = "#20111B"
+red = "#BE100E"
+green = "#858162"
+yellow = "#EAA549"
+blue = "#426A79"
+magenta = "#97522C"
+cyan = "#989A9C"
+white = "#968C83"
+bright_black = "#5E5252"
+bright_red = "#BE100E"
+bright_green = "#858162"
+bright_yellow = "#EAA549"
+bright_blue = "#426A79"
+bright_magenta = "#97522C"
+bright_cyan = "#989A9C"
+bright_white = "#D5CCBA"

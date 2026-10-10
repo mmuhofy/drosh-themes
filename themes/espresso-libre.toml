@@ -1,0 +1,31 @@
+# Drosh theme — Espresso Libre. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "espresso-libre"
+name = "Espresso Libre"
+author = "jurgemaister"
+description = "A dark coffee-brown theme with bright primary syntax colors."
+version = 1
+
+[palette]
+background = "#2A211C"
+foreground = "#B8A898"
+cursor = "#FFFFFF"
+selection_background = "#C3DCFF"
+selection_foreground = "#B8A898"
+accent = "#0066FF"
+black = "#000000"
+red = "#CC0000"
+green = "#1A921C"
+yellow = "#F0E53A"
+blue = "#0066FF"
+magenta = "#C5656B"
+cyan = "#06989A"
+white = "#D3D7CF"
+bright_black = "#555753"
+bright_red = "#EF2929"
+bright_green = "#9AFF87"
+bright_yellow = "#FFFB5C"
+bright_blue = "#43A8ED"
+bright_magenta = "#FF818A"
+bright_cyan = "#34E2E2"
+bright_white = "#EEEEEC"

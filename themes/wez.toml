@@ -1,0 +1,31 @@
+# Drosh theme — Wez. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "wez"
+name = "Wez"
+author = "wez"
+description = "A black theme with soft pastel ANSI colors."
+version = 1
+
+[palette]
+background = "#000000"
+foreground = "#B3B3B3"
+cursor = "#53AE71"
+selection_background = "#4D52F8"
+selection_foreground = "#000000"
+accent = "#5555CC"
+black = "#000000"
+red = "#CC5555"
+green = "#55CC55"
+yellow = "#CDCD55"
+blue = "#5555CC"
+magenta = "#CC55CC"
+cyan = "#7ACACA"
+white = "#CCCCCC"
+bright_black = "#555555"
+bright_red = "#FF5555"
+bright_green = "#55FF55"
+bright_yellow = "#FFFF55"
+bright_blue = "#5555FF"
+bright_magenta = "#FF55FF"
+bright_cyan = "#55FFFF"
+bright_white = "#FFFFFF"

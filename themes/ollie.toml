@@ -1,0 +1,31 @@
+# Drosh theme — Ollie. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "ollie"
+name = "Ollie"
+author = "zdj"
+description = "A dark charcoal theme with muted, low-saturation terminal colors."
+version = 1
+
+[palette]
+background = "#222125"
+foreground = "#8A8DAE"
+cursor = "#5B6EA7"
+selection_background = "#1E3A66"
+selection_foreground = "#8A8EAC"
+accent = "#2D57AC"
+black = "#000000"
+red = "#AC2E31"
+green = "#31AC61"
+yellow = "#AC4300"
+blue = "#2D57AC"
+magenta = "#B08528"
+cyan = "#1FA6AC"
+white = "#8A8EAC"
+bright_black = "#5B3725"
+bright_red = "#FF3D48"
+bright_green = "#3BFF99"
+bright_yellow = "#FF5E1E"
+bright_blue = "#4488FF"
+bright_magenta = "#FFC21D"
+bright_cyan = "#1FFAFF"
+bright_white = "#5B6EA7"

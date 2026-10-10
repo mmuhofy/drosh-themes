@@ -1,0 +1,31 @@
+# Drosh theme — Alien Blood. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "alien-blood"
+name = "Alien Blood"
+author = "zdj"
+description = "A muted dark green scheme with low-contrast earthy tones."
+version = 1
+
+[palette]
+background = "#0F1610"
+foreground = "#637D75"
+cursor = "#73FA91"
+selection_background = "#1D4125"
+selection_foreground = "#73FA91"
+accent = "#2F6A7F"
+black = "#112616"
+red = "#7F2B27"
+green = "#2F7E25"
+yellow = "#717F24"
+blue = "#2F6A7F"
+magenta = "#47587F"
+cyan = "#327F77"
+white = "#647D75"
+bright_black = "#3C4812"
+bright_red = "#E08009"
+bright_green = "#18E000"
+bright_yellow = "#BDE000"
+bright_blue = "#00AAE0"
+bright_magenta = "#0058E0"
+bright_cyan = "#00E0C4"
+bright_white = "#73FA91"

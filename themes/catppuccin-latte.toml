@@ -1,0 +1,31 @@
+# Drosh theme — Catppuccin Latte. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "catppuccin-latte"
+name = "Catppuccin Latte"
+author = "Catppuccin"
+description = "A light, creamy theme from the Catppuccin family with soft pastels."
+version = 1
+
+[palette]
+background = "#EFF1F5"
+foreground = "#4C4F69"
+cursor = "#DC8A78"
+selection_background = "#DC8A78"
+selection_foreground = "#EFF1F5"
+accent = "#1E66F5"
+black = "#BCC0CC"
+red = "#D20F39"
+green = "#40A02B"
+yellow = "#DF8E1D"
+blue = "#1E66F5"
+magenta = "#EA76CB"
+cyan = "#179299"
+white = "#5C5F77"
+bright_black = "#ACB0BE"
+bright_red = "#E7103F"
+bright_green = "#46B02F"
+bright_yellow = "#E49931"
+bright_blue = "#3878F6"
+bright_magenta = "#EF95D7"
+bright_cyan = "#19A1A8"
+bright_white = "#6C6F85"

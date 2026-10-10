@@ -1,0 +1,31 @@
+# Drosh theme — Borland. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "borland"
+name = "Borland"
+author = "delip"
+description = "A bold blue-background theme with high-contrast yellow and green text."
+version = 1
+
+[palette]
+background = "#0000A4"
+foreground = "#FFFF4E"
+cursor = "#FFA560"
+selection_background = "#A4A4A4"
+selection_foreground = "#0000A4"
+accent = "#96CBFE"
+black = "#4F4F4F"
+red = "#FF6C60"
+green = "#A8FF60"
+yellow = "#FFFFB6"
+blue = "#96CBFE"
+magenta = "#FF73FD"
+cyan = "#C6C5FE"
+white = "#EEEEEE"
+bright_black = "#7C7C7C"
+bright_red = "#FFB6B0"
+bright_green = "#CEFFAC"
+bright_yellow = "#FFFFCC"
+bright_blue = "#B5DCFF"
+bright_magenta = "#FF9CFE"
+bright_cyan = "#DFDFFE"
+bright_white = "#FFFFFF"

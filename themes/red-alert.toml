@@ -1,0 +1,31 @@
+# Drosh theme — Red Alert. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "red-alert"
+name = "Red Alert"
+author = "iTerm2-Color-Schemes"
+description = "A deep red theme with bright pink and sky-blue accents."
+version = 1
+
+[palette]
+background = "#762423"
+foreground = "#FFFFFF"
+cursor = "#FFFFFF"
+selection_background = "#073642"
+selection_foreground = "#FFFFFF"
+accent = "#489BEE"
+black = "#000000"
+red = "#D62E4E"
+green = "#71BE6B"
+yellow = "#BEB86B"
+blue = "#489BEE"
+magenta = "#E979D7"
+cyan = "#6BBEB8"
+white = "#D6D6D6"
+bright_black = "#262626"
+bright_red = "#E02553"
+bright_green = "#AFF08C"
+bright_yellow = "#DFDDB7"
+bright_blue = "#65AAF1"
+bright_magenta = "#DDB7DF"
+bright_cyan = "#B7DFDD"
+bright_white = "#FFFFFF"

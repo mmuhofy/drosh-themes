@@ -1,0 +1,31 @@
+# Drosh theme — iTerm2 Solarized Light. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "iterm2-solarized-light"
+name = "iTerm2 Solarized Light"
+author = "Ethan Schoonover"
+description = "Solarized, the precision color scheme, on its light cream base."
+version = 1
+
+[palette]
+background = "#FDF6E3"
+foreground = "#657B83"
+cursor = "#657B83"
+selection_background = "#EEE8D5"
+selection_foreground = "#586E75"
+accent = "#268BD2"
+black = "#073642"
+red = "#DC322F"
+green = "#859900"
+yellow = "#B58900"
+blue = "#268BD2"
+magenta = "#D33682"
+cyan = "#2AA198"
+white = "#EEE8D5"
+bright_black = "#002B36"
+bright_red = "#CB4B16"
+bright_green = "#586E75"
+bright_yellow = "#657B83"
+bright_blue = "#839496"
+bright_magenta = "#6C71C4"
+bright_cyan = "#93A1A1"
+bright_white = "#FDF6E3"

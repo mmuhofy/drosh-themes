@@ -1,0 +1,31 @@
+# Drosh theme — Peppermint. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "peppermint"
+name = "Peppermint"
+author = "Noah Frederick"
+description = "A black theme with cool mint, red and violet accents."
+version = 1
+
+[palette]
+background = "#000000"
+foreground = "#C8C8C8"
+cursor = "#BBBBBB"
+selection_background = "#E6E6E6"
+selection_foreground = "#000000"
+accent = "#449FD0"
+black = "#353535"
+red = "#E74669"
+green = "#89D287"
+yellow = "#DAB853"
+blue = "#449FD0"
+magenta = "#DA62DC"
+cyan = "#65AAAF"
+white = "#B4B4B4"
+bright_black = "#535353"
+bright_red = "#E4859B"
+bright_green = "#A3CCA2"
+bright_yellow = "#E1E487"
+bright_blue = "#6FBCE2"
+bright_magenta = "#E586E7"
+bright_cyan = "#96DCDB"
+bright_white = "#DFDFDF"

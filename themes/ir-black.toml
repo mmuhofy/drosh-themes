@@ -1,0 +1,31 @@
+# Drosh theme — IR Black. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "ir-black"
+name = "IR Black"
+author = "iTerm2-Color-Schemes"
+description = "A black theme with bright pastel green, yellow and pink accents."
+version = 1
+
+[palette]
+background = "#000000"
+foreground = "#F1F1F1"
+cursor = "#808080"
+selection_background = "#B5D5FF"
+selection_foreground = "#000000"
+accent = "#96CAFE"
+black = "#4F4F4F"
+red = "#FA6C60"
+green = "#A8FF60"
+yellow = "#FFFEB7"
+blue = "#96CAFE"
+magenta = "#FA73FD"
+cyan = "#C6C5FE"
+white = "#EFEDEF"
+bright_black = "#7B7B7B"
+bright_red = "#FCB6B0"
+bright_green = "#CFFFAB"
+bright_yellow = "#FFFFCC"
+bright_blue = "#B5DCFF"
+bright_magenta = "#FB9CFE"
+bright_cyan = "#E0E0FE"
+bright_white = "#FFFFFF"

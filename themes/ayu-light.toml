@@ -1,0 +1,31 @@
+# Drosh theme — Ayu Light. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "ayu-light"
+name = "Ayu Light"
+author = "alebcay"
+description = "A clean light theme with warm grey text and a strong blue accent."
+version = 1
+
+[palette]
+background = "#F8F9FA"
+foreground = "#5C6166"
+cursor = "#FFAA33"
+selection_background = "#035BD6"
+selection_foreground = "#F8F9FA"
+accent = "#3199E1"
+black = "#000000"
+red = "#EA6C6D"
+green = "#6CBF43"
+yellow = "#ECA944"
+blue = "#3199E1"
+magenta = "#9E75C7"
+cyan = "#46BA94"
+white = "#BABABA"
+bright_black = "#686868"
+bright_red = "#F07171"
+bright_green = "#86B300"
+bright_yellow = "#F2AE49"
+bright_blue = "#399EE6"
+bright_magenta = "#A37ACC"
+bright_cyan = "#4CBF99"
+bright_white = "#D1D1D1"

@@ -1,0 +1,31 @@
+# Drosh theme — Dot Gov. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "dot-gov"
+name = "Dot Gov"
+author = "iTerm2-Color-Schemes"
+description = "A dark slate theme with bright cyan and deep blue institutional tones."
+version = 1
+
+[palette]
+background = "#262C35"
+foreground = "#EBEBEB"
+cursor = "#D9002F"
+selection_background = "#1A4080"
+selection_foreground = "#FFFFFF"
+accent = "#17B2E0"
+black = "#191919"
+red = "#BF091D"
+green = "#3D9751"
+yellow = "#F6BB34"
+blue = "#17B2E0"
+magenta = "#7830B0"
+cyan = "#8BD2ED"
+white = "#FFFFFF"
+bright_black = "#191919"
+bright_red = "#BF091D"
+bright_green = "#3D9751"
+bright_yellow = "#F6BB34"
+bright_blue = "#17B2E0"
+bright_magenta = "#7830B0"
+bright_cyan = "#8BD2ED"
+bright_white = "#FFFFFF"

@@ -1,0 +1,31 @@
+# Drosh theme — Hipster Green. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "hipster-green"
+name = "Hipster Green"
+author = "Unkulunkulu"
+description = "A very dark theme where bright lime green carries the accents."
+version = 1
+
+[palette]
+background = "#100B05"
+foreground = "#84C138"
+cursor = "#23FF18"
+selection_background = "#083905"
+selection_foreground = "#FFFFFF"
+accent = "#246EB2"
+black = "#000000"
+red = "#B6214A"
+green = "#00A600"
+yellow = "#BFBF00"
+blue = "#246EB2"
+magenta = "#B200B2"
+cyan = "#00A6B2"
+white = "#BFBFBF"
+bright_black = "#666666"
+bright_red = "#E50000"
+bright_green = "#86A93E"
+bright_yellow = "#E5E500"
+bright_blue = "#0000FF"
+bright_magenta = "#E500E5"
+bright_cyan = "#00E5E5"
+bright_white = "#E5E5E5"

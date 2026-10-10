@@ -1,0 +1,31 @@
+# Drosh theme — Solarized Darcula. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "solarized-darcula"
+name = "Solarized Darcula"
+author = "rickhanlonii"
+description = "A neutral grey take on Solarized with Darcula accent colors."
+version = 1
+
+[palette]
+background = "#3D3F41"
+foreground = "#D2D8D9"
+cursor = "#708284"
+selection_background = "#214283"
+selection_foreground = "#D2D8D9"
+accent = "#2075C7"
+black = "#25292A"
+red = "#F24840"
+green = "#629655"
+yellow = "#B68800"
+blue = "#2075C7"
+magenta = "#797FD4"
+cyan = "#15968D"
+white = "#D2D8D9"
+bright_black = "#25292A"
+bright_red = "#F24840"
+bright_green = "#629655"
+bright_yellow = "#B68800"
+bright_blue = "#2075C7"
+bright_magenta = "#797FD4"
+bright_cyan = "#15968D"
+bright_white = "#D2D8D9"

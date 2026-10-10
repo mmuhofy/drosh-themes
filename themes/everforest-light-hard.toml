@@ -1,0 +1,31 @@
+# Drosh theme — Everforest Light Hard. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "everforest-light-hard"
+name = "Everforest Light Hard"
+author = "eskultety"
+description = "A warm paper-toned light variant of the forest-green theme."
+version = 1
+
+[palette]
+background = "#F2EFDF"
+foreground = "#5C6A72"
+cursor = "#F57D26"
+selection_background = "#F0F2D4"
+selection_foreground = "#5C6A72"
+accent = "#7FBBB3"
+black = "#7A8478"
+red = "#E67E80"
+green = "#A7C080"
+yellow = "#DBBC7F"
+blue = "#7FBBB3"
+magenta = "#D699B6"
+cyan = "#83C092"
+white = "#F2EFDF"
+bright_black = "#A6B0A0"
+bright_red = "#F85552"
+bright_green = "#8DA101"
+bright_yellow = "#DFA000"
+bright_blue = "#3A94C5"
+bright_magenta = "#DF69BA"
+bright_cyan = "#35A77C"
+bright_white = "#FFFBEF"

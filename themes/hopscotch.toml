@@ -1,0 +1,31 @@
+# Drosh theme — Hopscotch. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "hopscotch"
+name = "Hopscotch"
+author = "Jan T. Sott"
+description = "A dark plum theme with warm coral and aqua highlights."
+version = 1
+
+[palette]
+background = "#322931"
+foreground = "#B9B5B8"
+cursor = "#B9B5B8"
+selection_background = "#5C545B"
+selection_foreground = "#B9B5B8"
+accent = "#1290BF"
+black = "#322931"
+red = "#DD464C"
+green = "#8FC13E"
+yellow = "#FDCC59"
+blue = "#1290BF"
+magenta = "#C85E7C"
+cyan = "#149B93"
+white = "#B9B5B8"
+bright_black = "#797379"
+bright_red = "#FD8B19"
+bright_green = "#433B42"
+bright_yellow = "#5C545B"
+bright_blue = "#989498"
+bright_magenta = "#D5D3D5"
+bright_cyan = "#B33508"
+bright_white = "#FFFFFF"

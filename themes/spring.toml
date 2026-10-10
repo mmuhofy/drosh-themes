@@ -1,0 +1,31 @@
+# Drosh theme — Spring. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "spring"
+name = "Spring"
+author = "t3chnoboy"
+description = "A bright white theme with vivid pink and green spring colors."
+version = 1
+
+[palette]
+background = "#FFFFFF"
+foreground = "#4D4D4C"
+cursor = "#4D4D4C"
+selection_background = "#D6D6D6"
+selection_foreground = "#4D4D4C"
+accent = "#1DD3EE"
+black = "#000000"
+red = "#FF4D83"
+green = "#1F8C3B"
+yellow = "#1FC95B"
+blue = "#1DD3EE"
+magenta = "#8959A8"
+cyan = "#3E999F"
+white = "#FFFFFF"
+bright_black = "#000000"
+bright_red = "#FF0021"
+bright_green = "#1FC231"
+bright_yellow = "#D5B807"
+bright_blue = "#15A9FD"
+bright_magenta = "#8959A8"
+bright_cyan = "#3E999F"
+bright_white = "#FFFFFF"

@@ -1,0 +1,31 @@
+# Drosh theme — One Dark Two. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "one-dark-two"
+name = "One Dark Two"
+author = "beatreichenbach"
+description = "A dark grey theme with the Atom One palette and brighter blues."
+version = 1
+
+[palette]
+background = "#21252B"
+foreground = "#E6E6E6"
+cursor = "#E6E6E6"
+selection_background = "#393E47"
+selection_foreground = "#E6E6E6"
+accent = "#71B9F4"
+black = "#1D1F23"
+red = "#E27881"
+green = "#98C379"
+yellow = "#EAC786"
+blue = "#71B9F4"
+magenta = "#C88BDA"
+cyan = "#62BAC6"
+white = "#C9CCD3"
+bright_black = "#4A505A"
+bright_red = "#E68991"
+bright_green = "#A8CC8E"
+bright_yellow = "#EDCF97"
+bright_blue = "#8DC7F6"
+bright_magenta = "#D3A2E2"
+bright_cyan = "#78C4CE"
+bright_white = "#E6E6E6"

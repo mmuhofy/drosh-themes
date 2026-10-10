@@ -1,0 +1,31 @@
+# Drosh theme — Slate. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "slate"
+name = "Slate"
+author = "deneshshan"
+description = "A dark grey theme with cool cyan and lavender accents."
+version = 1
+
+[palette]
+background = "#222222"
+foreground = "#35B1D2"
+cursor = "#87D3C4"
+selection_background = "#0F3754"
+selection_foreground = "#2DFFC0"
+accent = "#264B49"
+black = "#222222"
+red = "#E2A8BF"
+green = "#81D778"
+yellow = "#C4C9C0"
+blue = "#264B49"
+magenta = "#A481D3"
+cyan = "#15AB9C"
+white = "#02C5E0"
+bright_black = "#FFFFFF"
+bright_red = "#FFCDD9"
+bright_green = "#BEFFA8"
+bright_yellow = "#D0CCCA"
+bright_blue = "#7AB0D2"
+bright_magenta = "#C5A7D9"
+bright_cyan = "#8CDFE0"
+bright_white = "#E0E0E0"

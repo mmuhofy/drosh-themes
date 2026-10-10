@@ -1,0 +1,31 @@
+# Drosh theme — Grape. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "grape"
+name = "Grape"
+author = "zdj"
+description = "A deep purple theme with electric pink and bright green accents."
+version = 1
+
+[palette]
+background = "#171423"
+foreground = "#9F9FA1"
+cursor = "#A288F7"
+selection_background = "#493D70"
+selection_foreground = "#171422"
+accent = "#487DF4"
+black = "#2D283F"
+red = "#ED2261"
+green = "#1FA91B"
+yellow = "#8DDC20"
+blue = "#487DF4"
+magenta = "#8D35C9"
+cyan = "#3BDEED"
+white = "#9E9EA0"
+bright_black = "#59516A"
+bright_red = "#F0729A"
+bright_green = "#53AA5E"
+bright_yellow = "#B2DC87"
+bright_blue = "#A9BCEC"
+bright_magenta = "#AD81C2"
+bright_cyan = "#9DE3EB"
+bright_white = "#A288F7"

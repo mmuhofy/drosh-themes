@@ -1,0 +1,31 @@
+# Drosh theme — Ember. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "ember"
+name = "Ember"
+author = "iTerm2-Color-Schemes"
+description = "A very dark ember-red theme with glowing orange and green accents."
+version = 1
+
+[palette]
+background = "#1B0F0B"
+foreground = "#F3E3D1"
+cursor = "#D17A3C"
+selection_background = "#4A2A1E"
+selection_foreground = "#F3E3D1"
+accent = "#6196E6"
+black = "#40261B"
+red = "#E4573F"
+green = "#79AD58"
+yellow = "#D99A33"
+blue = "#6196E6"
+magenta = "#D077B3"
+cyan = "#4AC3B1"
+white = "#D7B995"
+bright_black = "#6A4A38"
+bright_red = "#FF7B5E"
+bright_green = "#A8C976"
+bright_yellow = "#FFC15A"
+bright_blue = "#8BB8F2"
+bright_magenta = "#E59AD6"
+bright_cyan = "#66D9C4"
+bright_white = "#FFE8C7"

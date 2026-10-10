@@ -1,0 +1,31 @@
+# Drosh theme — Molokai. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "molokai"
+name = "Molokai"
+author = "tomasr"
+description = "A dark grey theme carrying the classic Vim Molokai palette."
+version = 1
+
+[palette]
+background = "#121212"
+foreground = "#BBBBBB"
+cursor = "#BBBBBB"
+selection_background = "#B5D5FF"
+selection_foreground = "#000000"
+accent = "#1080D0"
+black = "#121212"
+red = "#FA2573"
+green = "#98E123"
+yellow = "#DFD460"
+blue = "#1080D0"
+magenta = "#8700FF"
+cyan = "#43A8D0"
+white = "#BBBBBB"
+bright_black = "#555555"
+bright_red = "#F6669D"
+bright_green = "#B1E05F"
+bright_yellow = "#FFF26D"
+bright_blue = "#00AFFF"
+bright_magenta = "#AF87FF"
+bright_cyan = "#51CEFF"
+bright_white = "#FFFFFF"

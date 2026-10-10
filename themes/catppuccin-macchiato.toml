@@ -1,0 +1,31 @@
+# Drosh theme — Catppuccin Macchiato. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "catppuccin-macchiato"
+name = "Catppuccin Macchiato"
+author = "Catppuccin"
+description = "A deeper dark blue-grey variant of Catppuccin with gentle contrast."
+version = 1
+
+[palette]
+background = "#24273A"
+foreground = "#CAD3F5"
+cursor = "#F4DBD6"
+selection_background = "#F4DBD6"
+selection_foreground = "#24273A"
+accent = "#8AADF4"
+black = "#494D64"
+red = "#ED8796"
+green = "#A6DA95"
+yellow = "#EED49F"
+blue = "#8AADF4"
+magenta = "#F5BDE6"
+cyan = "#8BD5CA"
+white = "#B8C0E0"
+bright_black = "#5B6078"
+bright_red = "#F2A7B2"
+bright_green = "#BDE3B0"
+bright_yellow = "#F4E3C1"
+bright_blue = "#ADC5F7"
+bright_magenta = "#F493DA"
+bright_cyan = "#A5DED6"
+bright_white = "#A5ADCB"

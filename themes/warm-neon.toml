@@ -1,0 +1,31 @@
+# Drosh theme — Warm Neon. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "warm-neon"
+name = "Warm Neon"
+author = "iTerm2-Color-Schemes"
+description = "A dark grey theme with warm neon pink, green and yellow."
+version = 1
+
+[palette]
+background = "#404040"
+foreground = "#AFDAB6"
+cursor = "#30FF24"
+selection_background = "#B0AD21"
+selection_foreground = "#FFFFFF"
+accent = "#4261C5"
+black = "#000000"
+red = "#E24346"
+green = "#39B13A"
+yellow = "#DAE145"
+blue = "#4261C5"
+magenta = "#F920FB"
+cyan = "#2ABBD4"
+white = "#D0B8A3"
+bright_black = "#FEFCFC"
+bright_red = "#E97071"
+bright_green = "#9CC090"
+bright_yellow = "#DDDA7A"
+bright_blue = "#7B91D6"
+bright_magenta = "#F674BA"
+bright_cyan = "#5ED1E5"
+bright_white = "#D8C8BB"

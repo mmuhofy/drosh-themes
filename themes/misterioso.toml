@@ -1,0 +1,31 @@
+# Drosh theme — Misterioso. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "misterioso"
+name = "Misterioso"
+author = "flooose"
+description = "A dark blue-grey theme with bright magenta and cyan accents."
+version = 1
+
+[palette]
+background = "#2D3743"
+foreground = "#E1E1E0"
+cursor = "#000000"
+selection_background = "#2D37FF"
+selection_foreground = "#000000"
+accent = "#338F86"
+black = "#000000"
+red = "#FF4242"
+green = "#74AF68"
+yellow = "#FFAD29"
+blue = "#338F86"
+magenta = "#9414E6"
+cyan = "#23D7D7"
+white = "#E1E1E0"
+bright_black = "#555555"
+bright_red = "#FF3242"
+bright_green = "#74CD68"
+bright_yellow = "#FFB929"
+bright_blue = "#23D7D7"
+bright_magenta = "#FF37FF"
+bright_cyan = "#00EDE1"
+bright_white = "#FFFFFF"

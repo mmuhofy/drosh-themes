@@ -1,0 +1,31 @@
+# Drosh theme — Sundried. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "sundried"
+name = "Sundried"
+author = "zdj"
+description = "A dark charcoal theme with warm, sun-dried earth tones."
+version = 1
+
+[palette]
+background = "#1A1818"
+foreground = "#C9C9C9"
+cursor = "#FFFFFF"
+selection_background = "#302B2A"
+selection_foreground = "#C9C9C9"
+accent = "#485B98"
+black = "#302B2A"
+red = "#A7463D"
+green = "#587744"
+yellow = "#9D602A"
+blue = "#485B98"
+magenta = "#864651"
+cyan = "#9C814F"
+white = "#C9C9C9"
+bright_black = "#4D4E48"
+bright_red = "#AA000C"
+bright_green = "#128C21"
+bright_yellow = "#FC6A21"
+bright_blue = "#7999F7"
+bright_magenta = "#FD8AA1"
+bright_cyan = "#FAD484"
+bright_white = "#FFFFFF"

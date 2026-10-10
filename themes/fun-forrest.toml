@@ -1,0 +1,31 @@
+# Drosh theme — Fun Forrest. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "fun-forrest"
+name = "Fun Forrest"
+author = "zdj"
+description = "A dark warm-brown theme with vivid olive green and gold."
+version = 1
+
+[palette]
+background = "#251200"
+foreground = "#DEC165"
+cursor = "#E5591C"
+selection_background = "#E5591C"
+selection_foreground = "#000000"
+accent = "#4699A3"
+black = "#000000"
+red = "#D6262B"
+green = "#919C00"
+yellow = "#BE8A13"
+blue = "#4699A3"
+magenta = "#8D4331"
+cyan = "#DA8213"
+white = "#DDC265"
+bright_black = "#7F6A55"
+bright_red = "#E55A1C"
+bright_green = "#BFC65A"
+bright_yellow = "#FFCB1B"
+bright_blue = "#7CC9CF"
+bright_magenta = "#D26349"
+bright_cyan = "#E6A96B"
+bright_white = "#FFEAA3"

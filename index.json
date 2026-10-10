@@ -1,0 +1,846 @@
+{
+  "schema": 1,
+  "updated": "2026-10-10",
+  "themes": [
+    {
+      "id": "adventure",
+      "name": "Adventure",
+      "author": "hongzimao",
+      "description": "A near-black scheme with warm orange and sage accents for long sessions.",
+      "file": "themes/adventure.toml"
+    },
+    {
+      "id": "alien-blood",
+      "name": "Alien Blood",
+      "author": "zdj",
+      "description": "A muted dark green scheme with low-contrast earthy tones.",
+      "file": "themes/alien-blood.toml"
+    },
+    {
+      "id": "atom-one-dark",
+      "name": "Atom One Dark",
+      "author": "zasdaym",
+      "description": "A balanced dark grey theme with soft pastel syntax colors.",
+      "file": "themes/atom-one-dark.toml"
+    },
+    {
+      "id": "ayu",
+      "name": "Ayu",
+      "author": "alebcay",
+      "description": "A dark cyan-tinted theme with vivid green and orange highlights.",
+      "file": "themes/ayu.toml"
+    },
+    {
+      "id": "ayu-light",
+      "name": "Ayu Light",
+      "author": "alebcay",
+      "description": "A clean light theme with warm grey text and a strong blue accent.",
+      "file": "themes/ayu-light.toml"
+    },
+    {
+      "id": "ayu-mirage",
+      "name": "Ayu Mirage",
+      "author": "alebcay",
+      "description": "A dark slate-blue theme with soft, desaturated mid-tone colors.",
+      "file": "themes/ayu-mirage.toml"
+    },
+    {
+      "id": "belafonte-day",
+      "name": "Belafonte Day",
+      "author": "Jan T. Sott",
+      "description": "A warm parchment theme with earthy reds and olive greens.",
+      "file": "themes/belafonte-day.toml"
+    },
+    {
+      "id": "belafonte-night",
+      "name": "Belafonte Night",
+      "author": "Jan T. Sott",
+      "description": "A deep maroon-black counterpart to the day palette, same earthy accents.",
+      "file": "themes/belafonte-night.toml"
+    },
+    {
+      "id": "birds-of-paradise",
+      "name": "Birds Of Paradise",
+      "author": "zdj",
+      "description": "A dark brown scheme with muted tropical greens, blues and golds.",
+      "file": "themes/birds-of-paradise.toml"
+    },
+    {
+      "id": "bluloco-dark",
+      "name": "Bluloco Dark",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A dark editor theme with vivid pink, green and blue accents.",
+      "file": "themes/bluloco-dark.toml"
+    },
+    {
+      "id": "bluloco-light",
+      "name": "Bluloco Light",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A near-white theme with saturated pink, purple and blue accents.",
+      "file": "themes/bluloco-light.toml"
+    },
+    {
+      "id": "borland",
+      "name": "Borland",
+      "author": "delip",
+      "description": "A bold blue-background theme with high-contrast yellow and green text.",
+      "file": "themes/borland.toml"
+    },
+    {
+      "id": "builtin-dark",
+      "name": "Builtin Dark",
+      "author": "iTerm2-Color-Schemes",
+      "description": "The classic black background terminal palette in plain ANSI colors.",
+      "file": "themes/builtin-dark.toml"
+    },
+    {
+      "id": "builtin-light",
+      "name": "Builtin Light",
+      "author": "iTerm2-Color-Schemes",
+      "description": "The classic white background terminal palette in plain ANSI colors.",
+      "file": "themes/builtin-light.toml"
+    },
+    {
+      "id": "builtin-pastel-dark",
+      "name": "Builtin Pastel Dark",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A black background paired with pastel bright ANSI colors.",
+      "file": "themes/builtin-pastel-dark.toml"
+    },
+    {
+      "id": "builtin-tango-dark",
+      "name": "Builtin Tango Dark",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A black background combined with the muted Tango icon palette.",
+      "file": "themes/builtin-tango-dark.toml"
+    },
+    {
+      "id": "builtin-tango-light",
+      "name": "Builtin Tango Light",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A white background combined with the muted Tango icon palette.",
+      "file": "themes/builtin-tango-light.toml"
+    },
+    {
+      "id": "c64",
+      "name": "C64",
+      "author": "Jan T. Sott",
+      "description": "A Commodore 64 inspired theme with a violet background and muted blues.",
+      "file": "themes/c64.toml"
+    },
+    {
+      "id": "catppuccin-frappe",
+      "name": "Catppuccin Frappe",
+      "author": "Catppuccin",
+      "description": "A soft lavender-grey dark theme from the Catppuccin family.",
+      "file": "themes/catppuccin-frappe.toml"
+    },
+    {
+      "id": "catppuccin-latte",
+      "name": "Catppuccin Latte",
+      "author": "Catppuccin",
+      "description": "A light, creamy theme from the Catppuccin family with soft pastels.",
+      "file": "themes/catppuccin-latte.toml"
+    },
+    {
+      "id": "catppuccin-macchiato",
+      "name": "Catppuccin Macchiato",
+      "author": "Catppuccin",
+      "description": "A deeper dark blue-grey variant of Catppuccin with gentle contrast.",
+      "file": "themes/catppuccin-macchiato.toml"
+    },
+    {
+      "id": "catppuccin-mocha",
+      "name": "Catppuccin Mocha",
+      "author": "Catppuccin",
+      "description": "Catppuccin’s flagship dark theme with warm purple and pink accents.",
+      "file": "themes/catppuccin-mocha.toml"
+    },
+    {
+      "id": "chalk",
+      "name": "Chalk",
+      "author": "achalv",
+      "description": "A cool dark grey theme with chalky, desaturated syntax colors.",
+      "file": "themes/chalk.toml"
+    },
+    {
+      "id": "chester",
+      "name": "Chester",
+      "author": "KH",
+      "description": "A dark blue-grey theme with bright teal and crimson highlights.",
+      "file": "themes/chester.toml"
+    },
+    {
+      "id": "cobalt2",
+      "name": "Cobalt2",
+      "author": "wesbos",
+      "description": "A deep ocean-blue theme with saturated neon green and hot pink.",
+      "file": "themes/cobalt2.toml"
+    },
+    {
+      "id": "dark-pastel",
+      "name": "Dark Pastel",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A black theme using the vivid sixteen-color default terminal palette.",
+      "file": "themes/dark-pastel.toml"
+    },
+    {
+      "id": "desert",
+      "name": "Desert",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A soft warm grey theme with sand-toned desert colors.",
+      "file": "themes/desert.toml"
+    },
+    {
+      "id": "dimmed-monokai",
+      "name": "Dimmed Monokai",
+      "author": "zdj",
+      "description": "A toned-down Monokai variant with greyed-down syntax colors.",
+      "file": "themes/dimmed-monokai.toml"
+    },
+    {
+      "id": "dot-gov",
+      "name": "Dot Gov",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A dark slate theme with bright cyan and deep blue institutional tones.",
+      "file": "themes/dot-gov.toml"
+    },
+    {
+      "id": "dracula",
+      "name": "Dracula",
+      "author": "zenorocha",
+      "description": "A dark purple-tinted theme with vivid pink, green and purple accents.",
+      "file": "themes/dracula.toml"
+    },
+    {
+      "id": "earthsong",
+      "name": "Earthsong",
+      "author": "zdj",
+      "description": "A warm dark brown theme with terracotta and leafy green accents.",
+      "file": "themes/earthsong.toml"
+    },
+    {
+      "id": "ember",
+      "name": "Ember",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A very dark ember-red theme with glowing orange and green accents.",
+      "file": "themes/ember.toml"
+    },
+    {
+      "id": "espresso-libre",
+      "name": "Espresso Libre",
+      "author": "jurgemaister",
+      "description": "A dark coffee-brown theme with bright primary syntax colors.",
+      "file": "themes/espresso-libre.toml"
+    },
+    {
+      "id": "everforest-dark-hard",
+      "name": "Everforest Dark Hard",
+      "author": "NicolasGB",
+      "description": "A deep forest-green dark theme with muted earth-tone accents.",
+      "file": "themes/everforest-dark-hard.toml"
+    },
+    {
+      "id": "everforest-light-hard",
+      "name": "Everforest Light Hard",
+      "author": "eskultety",
+      "description": "A warm paper-toned light variant of the forest-green theme.",
+      "file": "themes/everforest-light-hard.toml"
+    },
+    {
+      "id": "fairyfloss",
+      "name": "Fairyfloss",
+      "author": "rebecabordini",
+      "description": "A dreamy pastel purple theme with candy pink and mint highlights.",
+      "file": "themes/fairyfloss.toml"
+    },
+    {
+      "id": "fish-tank",
+      "name": "Fish Tank",
+      "author": "zdj",
+      "description": "A deep navy theme with bright aquarium green and pink accents.",
+      "file": "themes/fish-tank.toml"
+    },
+    {
+      "id": "flat",
+      "name": "Flat",
+      "author": "ahmetsulek",
+      "description": "A deep navy theme built on the flat design palette.",
+      "file": "themes/flat.toml"
+    },
+    {
+      "id": "flatland",
+      "name": "Flatland",
+      "author": "realchaseadams",
+      "description": "A dark grey theme with warm yellow, green and violet highlights.",
+      "file": "themes/flatland.toml"
+    },
+    {
+      "id": "front-end-delight",
+      "name": "Front End Delight",
+      "author": "zdj",
+      "description": "A dark neutral theme with high-contrast orange and red accents.",
+      "file": "themes/front-end-delight.toml"
+    },
+    {
+      "id": "fun-forrest",
+      "name": "Fun Forrest",
+      "author": "zdj",
+      "description": "A dark warm-brown theme with vivid olive green and gold.",
+      "file": "themes/fun-forrest.toml"
+    },
+    {
+      "id": "github",
+      "name": "GitHub",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A clean light theme modeled on GitHub’s documentation pages.",
+      "file": "themes/github.toml"
+    },
+    {
+      "id": "grape",
+      "name": "Grape",
+      "author": "zdj",
+      "description": "A deep purple theme with electric pink and bright green accents.",
+      "file": "themes/grape.toml"
+    },
+    {
+      "id": "grass",
+      "name": "Grass",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A vivid green-background theme with retro terminal colors.",
+      "file": "themes/grass.toml"
+    },
+    {
+      "id": "gruvbox-dark",
+      "name": "Gruvbox Dark",
+      "author": "morhetz",
+      "description": "A warm dark brown theme with a retro, earthy color palette.",
+      "file": "themes/gruvbox-dark.toml"
+    },
+    {
+      "id": "gruvbox-light",
+      "name": "Gruvbox Light",
+      "author": "morhetz",
+      "description": "A warm cream-background theme with the retro Gruvbox palette.",
+      "file": "themes/gruvbox-light.toml"
+    },
+    {
+      "id": "highway",
+      "name": "Highway",
+      "author": "zdj",
+      "description": "A dark neutral theme with bright yellow and deep blue road-sign colors.",
+      "file": "themes/highway.toml"
+    },
+    {
+      "id": "hipster-green",
+      "name": "Hipster Green",
+      "author": "Unkulunkulu",
+      "description": "A very dark theme where bright lime green carries the accents.",
+      "file": "themes/hipster-green.toml"
+    },
+    {
+      "id": "homebrew",
+      "name": "Homebrew",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A pure black theme with the green-on-black Homebrew palette.",
+      "file": "themes/homebrew.toml"
+    },
+    {
+      "id": "hopscotch",
+      "name": "Hopscotch",
+      "author": "Jan T. Sott",
+      "description": "A dark plum theme with warm coral and aqua highlights.",
+      "file": "themes/hopscotch.toml"
+    },
+    {
+      "id": "horizon",
+      "name": "Horizon",
+      "author": "jolaleye",
+      "description": "A dark charcoal theme with hot coral, mint and sky-blue accents.",
+      "file": "themes/horizon.toml"
+    },
+    {
+      "id": "iceberg-dark",
+      "name": "Iceberg Dark",
+      "author": "cocopon",
+      "description": "A cool dark blue theme with calm, muted arctic colors.",
+      "file": "themes/iceberg-dark.toml"
+    },
+    {
+      "id": "iceberg-light",
+      "name": "Iceberg Light",
+      "author": "cocopon",
+      "description": "A pale grey-blue light theme with soft, muted arctic colors.",
+      "file": "themes/iceberg-light.toml"
+    },
+    {
+      "id": "ir-black",
+      "name": "IR Black",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A black theme with bright pastel green, yellow and pink accents.",
+      "file": "themes/ir-black.toml"
+    },
+    {
+      "id": "iterm2-solarized-dark",
+      "name": "iTerm2 Solarized Dark",
+      "author": "Ethan Schoonover",
+      "description": "Solarized, the precision color scheme, on its dark teal base.",
+      "file": "themes/iterm2-solarized-dark.toml"
+    },
+    {
+      "id": "iterm2-solarized-light",
+      "name": "iTerm2 Solarized Light",
+      "author": "Ethan Schoonover",
+      "description": "Solarized, the precision color scheme, on its light cream base.",
+      "file": "themes/iterm2-solarized-light.toml"
+    },
+    {
+      "id": "jackie-brown",
+      "name": "Jackie Brown",
+      "author": "Unkulunkulu",
+      "description": "A dark brown theme with golden yellow and bright green accents.",
+      "file": "themes/jackie-brown.toml"
+    },
+    {
+      "id": "japanesque",
+      "name": "Japanesque",
+      "author": "aereal",
+      "description": "A dark theme with muted pink, olive and indigo traditional tones.",
+      "file": "themes/japanesque.toml"
+    },
+    {
+      "id": "jellybeans",
+      "name": "Jellybeans",
+      "author": "qtpi",
+      "description": "A dark theme with candy-like pink, green and orange accents.",
+      "file": "themes/jellybeans.toml"
+    },
+    {
+      "id": "kanagawa-wave",
+      "name": "Kanagawa Wave",
+      "author": "rebelot",
+      "description": "A dark ink-blue theme inspired by The Great Wave off Kanagawa.",
+      "file": "themes/kanagawa-wave.toml"
+    },
+    {
+      "id": "kibble",
+      "name": "Kibble",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A very dark theme with bright yellow and electric blue accents.",
+      "file": "themes/kibble.toml"
+    },
+    {
+      "id": "later-this-evening",
+      "name": "Later This Evening",
+      "author": "vilhalmer",
+      "description": "A grey theme with muted, low-key pastel syntax colors.",
+      "file": "themes/later-this-evening.toml"
+    },
+    {
+      "id": "lovelace",
+      "name": "Lovelace",
+      "author": "nalanbar",
+      "description": "A dark blue-grey theme with bright cyan and coral accents.",
+      "file": "themes/lovelace.toml"
+    },
+    {
+      "id": "man-page",
+      "name": "Man Page",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A pale yellow theme modeled on classic UNIX manual pages.",
+      "file": "themes/man-page.toml"
+    },
+    {
+      "id": "material",
+      "name": "Material",
+      "author": "stoeffel",
+      "description": "A light grey theme using the Material Design color palette.",
+      "file": "themes/material.toml"
+    },
+    {
+      "id": "material-darker",
+      "name": "Material Darker",
+      "author": "jos3s",
+      "description": "A dark grey theme with the Material Design syntax palette.",
+      "file": "themes/material-darker.toml"
+    },
+    {
+      "id": "material-ocean",
+      "name": "Material Ocean",
+      "author": "fr3fou",
+      "description": "A deep navy-blue Material theme with cool, muted accents.",
+      "file": "themes/material-ocean.toml"
+    },
+    {
+      "id": "mathias",
+      "name": "Mathias",
+      "author": "mathiasbynens",
+      "description": "A black theme with vivid pink, lime and orange terminal colors.",
+      "file": "themes/mathias.toml"
+    },
+    {
+      "id": "medallion",
+      "name": "Medallion",
+      "author": "zdj",
+      "description": "A dark olive-bronze theme with muted gold and green tones.",
+      "file": "themes/medallion.toml"
+    },
+    {
+      "id": "misterioso",
+      "name": "Misterioso",
+      "author": "flooose",
+      "description": "A dark blue-grey theme with bright magenta and cyan accents.",
+      "file": "themes/misterioso.toml"
+    },
+    {
+      "id": "molokai",
+      "name": "Molokai",
+      "author": "tomasr",
+      "description": "A dark grey theme carrying the classic Vim Molokai palette.",
+      "file": "themes/molokai.toml"
+    },
+    {
+      "id": "mona-lisa",
+      "name": "Mona Lisa",
+      "author": "zdj",
+      "description": "A very dark theme framed by warm gold and deep red tones.",
+      "file": "themes/mona-lisa.toml"
+    },
+    {
+      "id": "monokai-pro",
+      "name": "Monokai Pro",
+      "author": "Monokai",
+      "description": "The Monokai Pro palette with warm pink, green and violet accents.",
+      "file": "themes/monokai-pro.toml"
+    },
+    {
+      "id": "night-owl",
+      "name": "Night Owl",
+      "author": "zasdaym",
+      "description": "A deep navy-blue theme with soft green and lavender accents.",
+      "file": "themes/night-owl.toml"
+    },
+    {
+      "id": "nord",
+      "name": "Nord",
+      "author": "Arctic Ice Studio",
+      "description": "A cool arctic blue-grey theme with soft, muted accent colors.",
+      "file": "themes/nord.toml"
+    },
+    {
+      "id": "ocean",
+      "name": "Ocean",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A saturated blue-background theme with vivid terminal colors.",
+      "file": "themes/ocean.toml"
+    },
+    {
+      "id": "ollie",
+      "name": "Ollie",
+      "author": "zdj",
+      "description": "A dark charcoal theme with muted, low-saturation terminal colors.",
+      "file": "themes/ollie.toml"
+    },
+    {
+      "id": "one-dark-two",
+      "name": "One Dark Two",
+      "author": "beatreichenbach",
+      "description": "A dark grey theme with the Atom One palette and brighter blues.",
+      "file": "themes/one-dark-two.toml"
+    },
+    {
+      "id": "paraiso-dark",
+      "name": "Paraiso Dark",
+      "author": "Jan T. Sott",
+      "description": "A dark plum theme with warm coral and emerald accents.",
+      "file": "themes/paraiso-dark.toml"
+    },
+    {
+      "id": "peppermint",
+      "name": "Peppermint",
+      "author": "Noah Frederick",
+      "description": "A black theme with cool mint, red and violet accents.",
+      "file": "themes/peppermint.toml"
+    },
+    {
+      "id": "pro",
+      "name": "Pro",
+      "author": "Monokai",
+      "description": "A black theme with the classic bright ANSI terminal palette.",
+      "file": "themes/pro.toml"
+    },
+    {
+      "id": "red-alert",
+      "name": "Red Alert",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A deep red theme with bright pink and sky-blue accents.",
+      "file": "themes/red-alert.toml"
+    },
+    {
+      "id": "red-sands",
+      "name": "Red Sands",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A red desert theme with sand-toned text and orange accents.",
+      "file": "themes/red-sands.toml"
+    },
+    {
+      "id": "relaxed",
+      "name": "Relaxed",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A soft blue-grey theme with mellow, desaturated colors.",
+      "file": "themes/relaxed.toml"
+    },
+    {
+      "id": "rippedcasts",
+      "name": "Rippedcasts",
+      "author": "mdw123",
+      "description": "A dark grey theme with muted pastel terminal colors.",
+      "file": "themes/rippedcasts.toml"
+    },
+    {
+      "id": "rose-pine",
+      "name": "Rose Pine",
+      "author": "Rosé Pine",
+      "description": "A dark muted theme with rose, gold and pine green accents.",
+      "file": "themes/rose-pine.toml"
+    },
+    {
+      "id": "rose-pine-dawn",
+      "name": "Rose Pine Dawn",
+      "author": "Rosé Pine",
+      "description": "The light variant of Rose Pine on a soft rose-tinted paper.",
+      "file": "themes/rose-pine-dawn.toml"
+    },
+    {
+      "id": "rose-pine-moon",
+      "name": "Rose Pine Moon",
+      "author": "Rosé Pine",
+      "description": "A darker, softer Rose Pine with muted moonlight tones.",
+      "file": "themes/rose-pine-moon.toml"
+    },
+    {
+      "id": "royal",
+      "name": "Royal",
+      "author": "zdj",
+      "description": "A very dark violet theme with subdued, muted terminal colors.",
+      "file": "themes/royal.toml"
+    },
+    {
+      "id": "seti",
+      "name": "Seti",
+      "author": "jesseweed",
+      "description": "A near-black theme with bright green and cyan accents.",
+      "file": "themes/seti.toml"
+    },
+    {
+      "id": "shaman",
+      "name": "Shaman",
+      "author": "zdj",
+      "description": "A deep teal-black theme with low-contrast earth and sea colors.",
+      "file": "themes/shaman.toml"
+    },
+    {
+      "id": "slate",
+      "name": "Slate",
+      "author": "deneshshan",
+      "description": "A dark grey theme with cool cyan and lavender accents.",
+      "file": "themes/slate.toml"
+    },
+    {
+      "id": "smyck",
+      "name": "Smyck",
+      "author": "hukl",
+      "description": "A dark grey theme with warm orange, green and blue accents.",
+      "file": "themes/smyck.toml"
+    },
+    {
+      "id": "soft-server",
+      "name": "Soft Server",
+      "author": "zdj",
+      "description": "A dark grey theme with quiet, desaturated sage and blue tones.",
+      "file": "themes/soft-server.toml"
+    },
+    {
+      "id": "solarized-darcula",
+      "name": "Solarized Darcula",
+      "author": "rickhanlonii",
+      "description": "A neutral grey take on Solarized with Darcula accent colors.",
+      "file": "themes/solarized-darcula.toml"
+    },
+    {
+      "id": "spacedust",
+      "name": "Spacedust",
+      "author": "mhallendal",
+      "description": "A dark teal theme with dusty orange and sea-green accents.",
+      "file": "themes/spacedust.toml"
+    },
+    {
+      "id": "spacegray",
+      "name": "Spacegray",
+      "author": "ryentzer",
+      "description": "A dark blue-grey theme with muted, cool accent colors.",
+      "file": "themes/spacegray.toml"
+    },
+    {
+      "id": "spacegray-eighties",
+      "name": "Spacegray Eighties",
+      "author": "mhkeller",
+      "description": "A dark Spacegray variant with brighter 1980s-style accents.",
+      "file": "themes/spacegray-eighties.toml"
+    },
+    {
+      "id": "spring",
+      "name": "Spring",
+      "author": "t3chnoboy",
+      "description": "A bright white theme with vivid pink and green spring colors.",
+      "file": "themes/spring.toml"
+    },
+    {
+      "id": "sundried",
+      "name": "Sundried",
+      "author": "zdj",
+      "description": "A dark charcoal theme with warm, sun-dried earth tones.",
+      "file": "themes/sundried.toml"
+    },
+    {
+      "id": "synthwave",
+      "name": "Synthwave",
+      "author": "brettstil",
+      "description": "A black theme with neon pink, cyan and yellow synthwave colors.",
+      "file": "themes/synthwave.toml"
+    },
+    {
+      "id": "synthwave-alpha",
+      "name": "Synthwave Alpha",
+      "author": "vikpe",
+      "description": "A dark purple synthwave theme with glowing neon accents.",
+      "file": "themes/synthwave-alpha.toml"
+    },
+    {
+      "id": "thayer-bright",
+      "name": "Thayer Bright",
+      "author": "t3chnoboy",
+      "description": "A dark theme with hot pink, lime and electric purple neon.",
+      "file": "themes/thayer-bright.toml"
+    },
+    {
+      "id": "tokyonight",
+      "name": "TokyoNight",
+      "author": "folke",
+      "description": "A deep indigo theme with soft blue and pink night-time accents.",
+      "file": "themes/tokyonight.toml"
+    },
+    {
+      "id": "tomorrow-night",
+      "name": "Tomorrow Night",
+      "author": "chriskempson",
+      "description": "A dark grey theme from the Tomorrow family with muted colors.",
+      "file": "themes/tomorrow-night.toml"
+    },
+    {
+      "id": "tomorrow-night-blue",
+      "name": "Tomorrow Night Blue",
+      "author": "chriskempson",
+      "description": "A deep blue Tomorrow variant with soft pastel syntax colors.",
+      "file": "themes/tomorrow-night-blue.toml"
+    },
+    {
+      "id": "tomorrow-night-bright",
+      "name": "Tomorrow Night Bright",
+      "author": "chriskempson",
+      "description": "A black-background Tomorrow variant with bright pastel accents.",
+      "file": "themes/tomorrow-night-bright.toml"
+    },
+    {
+      "id": "tomorrow-night-eighties",
+      "name": "Tomorrow Night Eighties",
+      "author": "chriskempson",
+      "description": "A dark grey Tomorrow variant with soft 1980s pastels.",
+      "file": "themes/tomorrow-night-eighties.toml"
+    },
+    {
+      "id": "toy-chest",
+      "name": "Toy Chest",
+      "author": "zdj",
+      "description": "A dark blue theme with playful green, orange and violet accents.",
+      "file": "themes/toy-chest.toml"
+    },
+    {
+      "id": "treehouse",
+      "name": "Treehouse",
+      "author": "zdj",
+      "description": "A dark scheme with muted forest green and warm brown tones.",
+      "file": "themes/treehouse.toml"
+    },
+    {
+      "id": "twilight",
+      "name": "Twilight",
+      "author": "stefri",
+      "description": "A very dark theme with soft, warm grey and olive accents.",
+      "file": "themes/twilight.toml"
+    },
+    {
+      "id": "urple",
+      "name": "Urple",
+      "author": "zdj",
+      "description": "A dark violet theme with muted purple and blue-green accents.",
+      "file": "themes/urple.toml"
+    },
+    {
+      "id": "vaughn",
+      "name": "Vaughn",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A deep indigo theme with soft pastel green and pink accents.",
+      "file": "themes/vaughn.toml"
+    },
+    {
+      "id": "vibrant-ink",
+      "name": "Vibrant Ink",
+      "author": "asanghi",
+      "description": "A black theme with vivid orange, cyan and green retro ink colors.",
+      "file": "themes/vibrant-ink.toml"
+    },
+    {
+      "id": "warm-neon",
+      "name": "Warm Neon",
+      "author": "iTerm2-Color-Schemes",
+      "description": "A dark grey theme with warm neon pink, green and yellow.",
+      "file": "themes/warm-neon.toml"
+    },
+    {
+      "id": "wez",
+      "name": "Wez",
+      "author": "wez",
+      "description": "A black theme with soft pastel ANSI colors.",
+      "file": "themes/wez.toml"
+    },
+    {
+      "id": "wild-cherry",
+      "name": "Wild Cherry",
+      "author": "mashaal",
+      "description": "A deep purple theme with hot pink and bright violet accents.",
+      "file": "themes/wild-cherry.toml"
+    },
+    {
+      "id": "wombat",
+      "name": "Wombat",
+      "author": "djoyner",
+      "description": "A dark warm-grey theme with soft pastel terminal colors.",
+      "file": "themes/wombat.toml"
+    },
+    {
+      "id": "wryan",
+      "name": "Wryan",
+      "author": "baskerville",
+      "description": "A very dark theme with muted maroon, teal and indigo accents.",
+      "file": "themes/wryan.toml"
+    },
+    {
+      "id": "zenburn",
+      "name": "Zenburn",
+      "author": "Suraj N. Kurapati",
+      "description": "A medium grey theme with low-contrast warm, earthy colors.",
+      "file": "themes/zenburn.toml"
+    }
+  ]
+}

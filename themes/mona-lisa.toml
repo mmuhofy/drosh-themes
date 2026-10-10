@@ -1,0 +1,31 @@
+# Drosh theme — Mona Lisa. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "mona-lisa"
+name = "Mona Lisa"
+author = "zdj"
+description = "A very dark theme framed by warm gold and deep red tones."
+version = 1
+
+[palette]
+background = "#120B0D"
+foreground = "#F7D66A"
+cursor = "#C46C32"
+selection_background = "#F7D66A"
+selection_foreground = "#120B0D"
+accent = "#515C5D"
+black = "#351B0E"
+red = "#9B291C"
+green = "#636232"
+yellow = "#C36E28"
+blue = "#515C5D"
+magenta = "#9B1D29"
+cyan = "#588056"
+white = "#F7D75C"
+bright_black = "#874228"
+bright_red = "#FF4331"
+bright_green = "#B4B264"
+bright_yellow = "#FF9566"
+bright_blue = "#9EB2B4"
+bright_magenta = "#FF5B6A"
+bright_cyan = "#8ACD8F"
+bright_white = "#FFE598"

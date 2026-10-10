@@ -1,0 +1,31 @@
+# Drosh theme — Fish Tank. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "fish-tank"
+name = "Fish Tank"
+author = "zdj"
+description = "A deep navy theme with bright aquarium green and pink accents."
+version = 1
+
+[palette]
+background = "#232537"
+foreground = "#ECF0FE"
+cursor = "#FECD5E"
+selection_background = "#FCF7E9"
+selection_foreground = "#232537"
+accent = "#525FB8"
+black = "#03073C"
+red = "#C6004A"
+green = "#ACF157"
+yellow = "#FECD5E"
+blue = "#525FB8"
+magenta = "#986F82"
+cyan = "#968763"
+white = "#ECF0FC"
+bright_black = "#6C5B30"
+bright_red = "#DA4B8A"
+bright_green = "#DBFFA9"
+bright_yellow = "#FEE6A9"
+bright_blue = "#B2BEFA"
+bright_magenta = "#FDA5CD"
+bright_cyan = "#A5BD86"
+bright_white = "#F6FFEC"

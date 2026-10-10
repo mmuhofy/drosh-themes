@@ -1,0 +1,31 @@
+# Drosh theme — Rippedcasts. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "rippedcasts"
+name = "Rippedcasts"
+author = "mdw123"
+description = "A dark grey theme with muted pastel terminal colors."
+version = 1
+
+[palette]
+background = "#2B2B2B"
+foreground = "#FFFFFF"
+cursor = "#7F7F7F"
+selection_background = "#5A647E"
+selection_foreground = "#F2F2F2"
+accent = "#75A5B0"
+black = "#000000"
+red = "#CDAF95"
+green = "#A8FF60"
+yellow = "#BFBB1F"
+blue = "#75A5B0"
+magenta = "#FF73FD"
+cyan = "#5A647E"
+white = "#BFBFBF"
+bright_black = "#666666"
+bright_red = "#EECBAD"
+bright_green = "#BCEE68"
+bright_yellow = "#E5E500"
+bright_blue = "#86BDC9"
+bright_magenta = "#E500E5"
+bright_cyan = "#8C9BC4"
+bright_white = "#E5E5E5"

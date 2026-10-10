@@ -1,0 +1,31 @@
+# Drosh theme — Desert. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "desert"
+name = "Desert"
+author = "iTerm2-Color-Schemes"
+description = "A soft warm grey theme with sand-toned desert colors."
+version = 1
+
+[palette]
+background = "#333333"
+foreground = "#FFFFFF"
+cursor = "#00FF00"
+selection_background = "#B5D5FF"
+selection_foreground = "#000000"
+accent = "#CD853F"
+black = "#4D4D4D"
+red = "#FF2B2B"
+green = "#98FB98"
+yellow = "#F0E68C"
+blue = "#CD853F"
+magenta = "#FFDEAD"
+cyan = "#FFA0A0"
+white = "#F5DEB3"
+bright_black = "#555555"
+bright_red = "#FF5555"
+bright_green = "#55FF55"
+bright_yellow = "#FFFF55"
+bright_blue = "#87CEFF"
+bright_magenta = "#FF55FF"
+bright_cyan = "#FFD700"
+bright_white = "#FFFFFF"

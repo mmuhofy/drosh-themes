@@ -1,0 +1,31 @@
+# Drosh theme — Treehouse. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "treehouse"
+name = "Treehouse"
+author = "zdj"
+description = "A dark scheme with muted forest green and warm brown tones."
+version = 1
+
+[palette]
+background = "#191919"
+foreground = "#786B53"
+cursor = "#FAC814"
+selection_background = "#786B53"
+selection_foreground = "#FAC800"
+accent = "#58859A"
+black = "#321300"
+red = "#B2270E"
+green = "#44A900"
+yellow = "#AA820C"
+blue = "#58859A"
+magenta = "#97363D"
+cyan = "#B25A1E"
+white = "#786B53"
+bright_black = "#433626"
+bright_red = "#ED5D20"
+bright_green = "#55F238"
+bright_yellow = "#F2B732"
+bright_blue = "#85CFED"
+bright_magenta = "#E14C5A"
+bright_cyan = "#F07D14"
+bright_white = "#FFC800"

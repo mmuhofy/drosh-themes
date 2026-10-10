@@ -1,0 +1,31 @@
+# Drosh theme — Kibble. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "kibble"
+name = "Kibble"
+author = "iTerm2-Color-Schemes"
+description = "A very dark theme with bright yellow and electric blue accents."
+version = 1
+
+[palette]
+background = "#0E100A"
+foreground = "#F7F7F7"
+cursor = "#9FDA9C"
+selection_background = "#9BA787"
+selection_foreground = "#000000"
+accent = "#3449D1"
+black = "#4D4D4D"
+red = "#C70031"
+green = "#29CF13"
+yellow = "#D8E30E"
+blue = "#3449D1"
+magenta = "#8400FF"
+cyan = "#0798AB"
+white = "#E2D1E3"
+bright_black = "#5A5A5A"
+bright_red = "#F01578"
+bright_green = "#6CE05C"
+bright_yellow = "#F3F79E"
+bright_blue = "#97A4F7"
+bright_magenta = "#C495F0"
+bright_cyan = "#68F2E0"
+bright_white = "#FFFFFF"

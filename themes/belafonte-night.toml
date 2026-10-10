@@ -1,0 +1,31 @@
+# Drosh theme — Belafonte Night. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "belafonte-night"
+name = "Belafonte Night"
+author = "Jan T. Sott"
+description = "A deep maroon-black counterpart to the day palette, same earthy accents."
+version = 1
+
+[palette]
+background = "#20111B"
+foreground = "#968C83"
+cursor = "#968C83"
+selection_background = "#45373C"
+selection_foreground = "#968C83"
+accent = "#426A79"
+black = "#20111B"
+red = "#BE100E"
+green = "#858162"
+yellow = "#EAA549"
+blue = "#426A79"
+magenta = "#97522C"
+cyan = "#989A9C"
+white = "#968C83"
+bright_black = "#5E5252"
+bright_red = "#BE100E"
+bright_green = "#858162"
+bright_yellow = "#EAA549"
+bright_blue = "#426A79"
+bright_magenta = "#97522C"
+bright_cyan = "#989A9C"
+bright_white = "#D5CCBA"

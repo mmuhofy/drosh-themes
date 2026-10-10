@@ -1,0 +1,31 @@
+# Drosh theme — Japanesque. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "japanesque"
+name = "Japanesque"
+author = "aereal"
+description = "A dark theme with muted pink, olive and indigo traditional tones."
+version = 1
+
+[palette]
+background = "#1E1E1E"
+foreground = "#F7F6EC"
+cursor = "#EDCF4F"
+selection_background = "#175877"
+selection_foreground = "#F7F6EC"
+accent = "#4C9AD4"
+black = "#343935"
+red = "#CF3F61"
+green = "#7BB75B"
+yellow = "#E9B32A"
+blue = "#4C9AD4"
+magenta = "#A57FC4"
+cyan = "#389AAD"
+white = "#FAFAF6"
+bright_black = "#595B59"
+bright_red = "#D18FA6"
+bright_green = "#767F2C"
+bright_yellow = "#78592F"
+bright_blue = "#135979"
+bright_magenta = "#604291"
+bright_cyan = "#76BBCA"
+bright_white = "#B2B5AE"

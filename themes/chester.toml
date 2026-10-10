@@ -1,0 +1,31 @@
+# Drosh theme — Chester. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "chester"
+name = "Chester"
+author = "KH"
+description = "A dark blue-grey theme with bright teal and crimson highlights."
+version = 1
+
+[palette]
+background = "#2C3643"
+foreground = "#FFFFFF"
+cursor = "#B4B1B1"
+selection_background = "#67747C"
+selection_foreground = "#FFFFFF"
+accent = "#288AD6"
+black = "#080200"
+red = "#FA5E5B"
+green = "#16C98D"
+yellow = "#FFC83F"
+blue = "#288AD6"
+magenta = "#D34590"
+cyan = "#28DDDE"
+white = "#E7E7E7"
+bright_black = "#6F6B68"
+bright_red = "#FA5E5B"
+bright_green = "#16C98D"
+bright_yellow = "#FEEF6D"
+bright_blue = "#278AD6"
+bright_magenta = "#D34590"
+bright_cyan = "#27DEDE"
+bright_white = "#FFFFFF"

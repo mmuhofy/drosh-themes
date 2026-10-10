@@ -1,0 +1,31 @@
+# Drosh theme — Spacegray. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "spacegray"
+name = "Spacegray"
+author = "ryentzer"
+description = "A dark blue-grey theme with muted, cool accent colors."
+version = 1
+
+[palette]
+background = "#20242D"
+foreground = "#B3B8C3"
+cursor = "#B3B8C3"
+selection_background = "#16181E"
+selection_foreground = "#B3B8C3"
+accent = "#7D8FA4"
+black = "#000000"
+red = "#B04B57"
+green = "#87B379"
+yellow = "#E5C179"
+blue = "#7D8FA4"
+magenta = "#A47996"
+cyan = "#85A7A5"
+white = "#B3B8C3"
+bright_black = "#000000"
+bright_red = "#B04B57"
+bright_green = "#87B379"
+bright_yellow = "#E5C179"
+bright_blue = "#7D8FA4"
+bright_magenta = "#A47996"
+bright_cyan = "#85A7A5"
+bright_white = "#FFFFFF"

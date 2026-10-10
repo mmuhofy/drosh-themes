@@ -1,0 +1,31 @@
+# Drosh theme — Everforest Dark Hard. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "everforest-dark-hard"
+name = "Everforest Dark Hard"
+author = "NicolasGB"
+description = "A deep forest-green dark theme with muted earth-tone accents."
+version = 1
+
+[palette]
+background = "#1E2326"
+foreground = "#D3C6AA"
+cursor = "#E69875"
+selection_background = "#4C3743"
+selection_foreground = "#D3C6AA"
+accent = "#7FBBB3"
+black = "#7A8478"
+red = "#E67E80"
+green = "#A7C080"
+yellow = "#DBBC7F"
+blue = "#7FBBB3"
+magenta = "#D699B6"
+cyan = "#83C092"
+white = "#F2EFDF"
+bright_black = "#A6B0A0"
+bright_red = "#F85552"
+bright_green = "#8DA101"
+bright_yellow = "#DFA000"
+bright_blue = "#3A94C5"
+bright_magenta = "#DF69BA"
+bright_cyan = "#35A77C"
+bright_white = "#FFFBEF"

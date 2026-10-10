@@ -1,0 +1,31 @@
+# Drosh theme — Toy Chest. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "toy-chest"
+name = "Toy Chest"
+author = "zdj"
+description = "A dark blue theme with playful green, orange and violet accents."
+version = 1
+
+[palette]
+background = "#24364B"
+foreground = "#31D07B"
+cursor = "#D5D5D5"
+selection_background = "#5F217A"
+selection_foreground = "#D5D5D5"
+accent = "#325D96"
+black = "#2C3F58"
+red = "#BE2D26"
+green = "#1A9172"
+yellow = "#DB8E27"
+blue = "#325D96"
+magenta = "#8A5EDC"
+cyan = "#35A08F"
+white = "#23D183"
+bright_black = "#336889"
+bright_red = "#DD5944"
+bright_green = "#31D07B"
+bright_yellow = "#E7D84B"
+bright_blue = "#34A6DA"
+bright_magenta = "#AE6BDC"
+bright_cyan = "#42C3AE"
+bright_white = "#D5D5D5"

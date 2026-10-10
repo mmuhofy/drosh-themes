@@ -1,0 +1,31 @@
+# Drosh theme — Catppuccin Mocha. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "catppuccin-mocha"
+name = "Catppuccin Mocha"
+author = "Catppuccin"
+description = "Catppuccin’s flagship dark theme with warm purple and pink accents."
+version = 1
+
+[palette]
+background = "#1E1E2E"
+foreground = "#CDD6F4"
+cursor = "#F5E0DC"
+selection_background = "#F5E0DC"
+selection_foreground = "#1E1E2E"
+accent = "#89B4FA"
+black = "#45475A"
+red = "#F38BA8"
+green = "#A6E3A1"
+yellow = "#F9E2AF"
+blue = "#89B4FA"
+magenta = "#F5C2E7"
+cyan = "#94E2D5"
+white = "#BAC2DE"
+bright_black = "#585B70"
+bright_red = "#F7AEC2"
+bright_green = "#C2ECBF"
+bright_yellow = "#FCD682"
+bright_blue = "#AECCFC"
+bright_magenta = "#F398DA"
+bright_cyan = "#B1EAE1"
+bright_white = "#A6ADC8"

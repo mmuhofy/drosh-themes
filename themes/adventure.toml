@@ -1,0 +1,31 @@
+# Drosh theme — Adventure. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "adventure"
+name = "Adventure"
+author = "hongzimao"
+description = "A near-black scheme with warm orange and sage accents for long sessions."
+version = 1
+
+[palette]
+background = "#040404"
+foreground = "#FEFFFF"
+cursor = "#FEFFFF"
+selection_background = "#606060"
+selection_foreground = "#FFFFFF"
+accent = "#417AB3"
+black = "#040404"
+red = "#D84A33"
+green = "#5DA602"
+yellow = "#EEBB6E"
+blue = "#417AB3"
+magenta = "#E5C499"
+cyan = "#BDCFE5"
+white = "#DBDED8"
+bright_black = "#685656"
+bright_red = "#D76B42"
+bright_green = "#99B52C"
+bright_yellow = "#FFB670"
+bright_blue = "#97D7EF"
+bright_magenta = "#AA7900"
+bright_cyan = "#BDCFE5"
+bright_white = "#E4D5C7"

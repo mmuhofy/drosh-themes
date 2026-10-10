@@ -1,0 +1,31 @@
+# Drosh theme — Cobalt2. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "cobalt2"
+name = "Cobalt2"
+author = "wesbos"
+description = "A deep ocean-blue theme with saturated neon green and hot pink."
+version = 1
+
+[palette]
+background = "#132738"
+foreground = "#FFFFFF"
+cursor = "#F0CC09"
+selection_background = "#18354F"
+selection_foreground = "#B5B5B5"
+accent = "#1460D2"
+black = "#000000"
+red = "#FF0000"
+green = "#38DE21"
+yellow = "#FFE50A"
+blue = "#1460D2"
+magenta = "#FF005D"
+cyan = "#00BBBB"
+white = "#BBBBBB"
+bright_black = "#555555"
+bright_red = "#F40E17"
+bright_green = "#3BD01D"
+bright_yellow = "#EDC809"
+bright_blue = "#5555FF"
+bright_magenta = "#FF55FF"
+bright_cyan = "#6AE3FA"
+bright_white = "#FFFFFF"

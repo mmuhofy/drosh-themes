@@ -1,0 +1,31 @@
+# Drosh theme — Material Darker. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "material-darker"
+name = "Material Darker"
+author = "jos3s"
+description = "A dark grey theme with the Material Design syntax palette."
+version = 1
+
+[palette]
+background = "#212121"
+foreground = "#EEFFFF"
+cursor = "#FFFFFF"
+selection_background = "#EEFFFF"
+selection_foreground = "#545454"
+accent = "#82AAFF"
+black = "#000000"
+red = "#FF5370"
+green = "#C3E88D"
+yellow = "#FFCB6B"
+blue = "#82AAFF"
+magenta = "#C792EA"
+cyan = "#89DDFF"
+white = "#FFFFFF"
+bright_black = "#545454"
+bright_red = "#FF5370"
+bright_green = "#C3E88D"
+bright_yellow = "#FFCB6B"
+bright_blue = "#82AAFF"
+bright_magenta = "#C792EA"
+bright_cyan = "#89DDFF"
+bright_white = "#FFFFFF"

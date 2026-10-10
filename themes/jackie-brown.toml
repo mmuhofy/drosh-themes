@@ -1,0 +1,31 @@
+# Drosh theme — Jackie Brown. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "jackie-brown"
+name = "Jackie Brown"
+author = "Unkulunkulu"
+description = "A dark brown theme with golden yellow and bright green accents."
+version = 1
+
+[palette]
+background = "#2C1D16"
+foreground = "#FFCC2F"
+cursor = "#23FF18"
+selection_background = "#AF8D21"
+selection_foreground = "#FFFFFF"
+accent = "#246EB2"
+black = "#2C1D16"
+red = "#EF5734"
+green = "#2BAF2B"
+yellow = "#BEBF00"
+blue = "#246EB2"
+magenta = "#D05EC1"
+cyan = "#00ACEE"
+white = "#BFBFBF"
+bright_black = "#666666"
+bright_red = "#E50000"
+bright_green = "#86A93E"
+bright_yellow = "#E5E500"
+bright_blue = "#0000FF"
+bright_magenta = "#E500E5"
+bright_cyan = "#00E5E5"
+bright_white = "#E5E5E5"

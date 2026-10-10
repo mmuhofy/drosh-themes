@@ -1,0 +1,31 @@
+# Drosh theme — Wombat. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "wombat"
+name = "Wombat"
+author = "djoyner"
+description = "A dark warm-grey theme with soft pastel terminal colors."
+version = 1
+
+[palette]
+background = "#171717"
+foreground = "#DEDACF"
+cursor = "#BBBBBB"
+selection_background = "#453B39"
+selection_foreground = "#B6BBC0"
+accent = "#5DA9F6"
+black = "#000000"
+red = "#FF615A"
+green = "#B1E969"
+yellow = "#EBD99C"
+blue = "#5DA9F6"
+magenta = "#E86AFF"
+cyan = "#82FFF7"
+white = "#DEDACF"
+bright_black = "#313131"
+bright_red = "#F58C80"
+bright_green = "#DDF88F"
+bright_yellow = "#EEE5B2"
+bright_blue = "#A5C7FF"
+bright_magenta = "#DDAAFF"
+bright_cyan = "#B7FFF9"
+bright_white = "#FFFFFF"

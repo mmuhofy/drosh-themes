@@ -1,0 +1,31 @@
+# Drosh theme — Builtin Light. Converted from iTerm2-Color-Schemes.
+[meta]
+id = "builtin-light"
+name = "Builtin Light"
+author = "iTerm2-Color-Schemes"
+description = "The classic white background terminal palette in plain ANSI colors."
+version = 1
+
+[palette]
+background = "#FFFFFF"
+foreground = "#000000"
+cursor = "#000000"
+selection_background = "#B5D5FF"
+selection_foreground = "#000000"
+accent = "#0000BB"
+black = "#000000"
+red = "#BB0000"
+green = "#00BB00"
+yellow = "#BBBB00"
+blue = "#0000BB"
+magenta = "#BB00BB"
+cyan = "#00BBBB"
+white = "#BBBBBB"
+bright_black = "#555555"
+bright_red = "#FF5555"
+bright_green = "#55FF55"
+bright_yellow = "#FFFF55"
+bright_blue = "#5555FF"
+bright_magenta = "#FF55FF"
+bright_cyan = "#55FFFF"
+bright_white = "#FFFFFF"
